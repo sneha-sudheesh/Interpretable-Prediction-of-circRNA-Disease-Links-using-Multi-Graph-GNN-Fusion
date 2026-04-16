@@ -1,0 +1,745 @@
+miRNA,disease,label,used
+mir-124,cardiovascular diseases,1,True
+mir-1305,urinary bladder neoplasms,1,True
+mir-1,"depressive disorder, major",0,True
+mir-19a,aortic aneurysm,1,True
+let-7a-5p,breast neoplasms,1,True
+mir-514a-5p,infantile hemangioma,1,True
+mir-659-3p,liver neoplasms,1,True
+mir-361-5p,uterine cervical neoplasms,1,True
+mir-5572,"thyroid cancer, papillary",1,True
+mir-205-5p,urinary bladder neoplasms,1,True
+mir-485-5p,uterine cervical neoplasms,1,True
+hsa-mir-501-5p,"diabetes mellitus, type 2",1,True
+mir-339-5p,esophageal neoplasms,1,True
+mir-876-5p,"thyroid cancer, papillary",1,True
+mir-526b,stomach neoplasms,1,True
+mir-548p,breast neoplasms,1,True
+mir-1250-3p,hepatoblastoma,1,True
+mir-4516,stomach neoplasms,1,True
+mir-370-3p,uterine cervical neoplasms,1,True
+mir-101b,moyamoya disease,0,True
+mir-382-5p,glioma,1,True
+mir-516b,glioma,1,True
+mir-645,multiple system atrophy,0,True
+mir-4288,nasopharyngeal carcinoma,1,True
+mir-345-3p,myocardial senescence,0,True
+mir-432-5p,glioblastoma,1,True
+mir-874,"lymphoma, large b-cell, diffuse",0,True
+mir-122,colonic neoplasms,1,True
+mir-572,"carcinoma, hepatocellular",1,True
+mir-615-5p,"carcinoma, non-small-cell lung",1,True
+mir-640,"carcinoma, hepatocellular",1,True
+mir-204-5p,diabetic cataract,1,True
+mir-10a,"carcinoma, ovarian epithelial",1,True
+mir-32,"thyroid cancer, papillary",0,True
+akt3,hirschsprung disease,1,True
+mir-486-5p,"carcinoma, hepatocellular",1,True
+mir-155-5p,hypopharyngeal neoplasms,0,True
+mir-185-3p,"carcinoma, non-small-cell lung",1,True
+mir-26a,osteoarthritis,1,True
+mir-377-3p,sciatica,0,True
+mir-1179,"thyroid cancer, papillary",1,True
+mir-526b-5p,squamous cell carcinoma of head and neck,1,True
+mir-101a-3p,ovarian neoplasms,0,True
+mir-139-5p,"thyroid cancer, papillary",1,True
+mir-1236,breast neoplasms,1,True
+mir-1178-3p,urinary bladder neoplasms,1,True
+mir-29a-5p,squamous cell carcinoma of head and neck,1,True
+hsa-mir-942-5p,chronic thromboembolic pulmonary hypertension,1,True
+mir-10b-5p,"carcinoma, non-small-cell lung",0,True
+mir-211,bladder urothelial carcinoma,0,True
+mir-661,"arthritis, rheumatoid",1,True
+hsa-mir-10a-5p,hypertension,1,True
+mir-138,colorectal neoplasms,1,True
+mir-661,glioma,1,True
+mir-454-3p,urinary bladder neoplasms,1,True
+mir-620,uterine cervical neoplasms,1,True
+mir-100,esophageal squamous cell carcinoma,1,True
+mir-196a-5p,squamous cell carcinoma of head and neck,1,True
+mir-378a,squamous cell carcinoma of head and neck,1,True
+mir-296,sciatica,0,True
+mir-4753-3p,"thyroid cancer, papillary",1,True
+nampt,osteoarthritis,1,True
+mir-27a-3p,urinary bladder neoplasms,1,True
+mir-6778-5p,colorectal neoplasms,1,True
+mir-133a-3p,glioma,0,True
+mir-183-5p-xiap,"leukemia, myeloid, acute",1,True
+mir-98-5p,uterine cervical neoplasms,0,True
+let-7a-5p,squamous cell carcinoma of head and neck,0,True
+mir-585-5p,squamous cell carcinoma of head and neck,1,True
+mir-599,osteosarcoma,1,True
+hsa-mir-619-5p,hypertension,1,True
+mir-492,breast neoplasms,1,True
+mir-1252-5p,"epilepsy, temporal lobe",1,True
+mir-144-3p,"carcinoma, pancreatic ductal",1,True
+mir-1252,"carcinoma, ovarian epithelial",1,True
+mir-191-5p,urinary bladder neoplasms,1,True
+mir-3200-5p,stomach neoplasms,1,True
+mir-148a-3p,triple negative breast neoplasms,1,True
+e2f1,cardiac senescence,1,True
+mir-1236-3p,colorectal neoplasms,1,True
+mir-135a-5p,adenocarcinoma of lung,1,True
+mir-429,melanoma,1,True
+mir-489-3p,infantile hemangioma,1,True
+mir-193b-3p,squamous cell carcinoma of head and neck,1,True
+mir-188-3p,lung neoplasms,1,True
+mir-33b,breast neoplasms,1,True
+hsa-mir-6807-3p,hypertension,1,True
+mir-34a,hepatocellular steatosis,1,True
+mir-182,glioma,1,True
+mir-217,urinary bladder neoplasms,1,True
+mir-4316,breast neoplasms,1,True
+mir-545,uterine cervical neoplasms,1,True
+mir-132-3p,urinary bladder neoplasms,1,True
+mir-1294,glioma,1,True
+mir-4663,esophageal neoplasms,1,True
+mir-496,"leukemia, myeloid, acute",1,True
+mir-15a,multiple myeloma,0,True
+mir-5193,"thyroid cancer, papillary",1,True
+mir-1972,fatty liver,1,True
+mir-30c-1*,esophageal neoplasms,1,True
+mir-103a,osteosarcoma,0,True
+mir-103a-3p,urinary bladder neoplasms,1,True
+mir-153-5p,"leukemia, myeloid, acute",1,True
+mir-6893,uterine cervical neoplasms,1,True
+mir-325,essential hypertension,0,True
+mir-491-5p,urinary bladder neoplasms,1,True
+mir-124,bladder urothelial carcinoma,1,True
+mir-200c,intervertebral disc degeneration,1,True
+mir-155,stomach neoplasms,1,True
+mir-30,"carcinoma, pancreatic ductal",0,True
+mir-200a-3p,"carcinoma, hepatocellular",1,True
+mir-1322,"carcinoma, hepatocellular",1,True
+mir-130a-3p,coronary artery disease,1,True
+mir-1238,cholangiocarcinoma,1,True
+mir-150-5p,colonic neoplasms,1,True
+mir-6753-5p,ovarian neoplasms,1,True
+mir-5692,"carcinoma, ovarian epithelial",0,True
+let-7,glioma,1,True
+mir-580-3p,"carcinoma, non-small-cell lung",1,True
+mir-26b-5p,cardiac fibrosis,1,True
+mir-130b,urinary bladder neoplasms,1,True
+mir-96-3p,lung neoplasms,1,True
+mir-449,"osteoporosis, postmenopausal",0,True
+mir-1184,urinary bladder neoplasms,1,True
+mir-384,esophageal neoplasms,1,True
+mir-585-5p,herpes simplex,0,True
+mir-221-3p,lung squamous cell carcinoma,0,True
+mir-19a,rheumatic heart disease,0,True
+mir-4443,breast neoplasms,1,True
+mir-545-3p,"carcinoma, non-small-cell lung",1,True
+mir-1238,cutaneous squamous cell carcinoma,1,True
+mir-630,"carcinoma, non-small-cell lung",1,True
+mir-212,melanoma,0,True
+mirna-21,"carcinoma, renal cell",0,True
+mir-139-3p,uterine cervical neoplasms,1,True
+mir-1231,urinary bladder neoplasms,1,True
+mir-182-5p,urinary bladder neoplasms,1,True
+mir-367-3p,stomach neoplasms,1,True
+mir-29a,urinary bladder neoplasms,1,True
+mir-107,atherosclerosis,1,True
+mir-181a,glioma,1,True
+let-7b,herpes simplex,0,True
+mir-23a-3p,myocardial infarction,0,True
+mir-5088-5p,"thyroid cancer, papillary",1,True
+mir-618,breast neoplasms,1,True
+mir-422a,esophageal squamous cell carcinoma,1,True
+mir-23a,irradiated hepatic stellate cell,0,True
+mir-34,sciatica,1,True
+mir-323a-5p,facet joint osteoarthritis,0,True
+mir-218,active pulmonary tuberculosis,0,True
+mir-382,"carcinoma, hepatocellular",1,True
+mir-766-3p,"carcinoma, hepatocellular",1,True
+mir-338-3p,colonic neoplasms,1,True
+ube2a,alzheimer disease,1,True
+mir128-1-3p,facet joint osteoarthritis,0,True
+mir-578,"thyroid cancer, papillary",1,True
+mir-31-5p,urinary bladder neoplasms,1,True
+mir-197,endometrial neoplasms,1,True
+mir-383,"lupus erythematosus, systemic",0,True
+mir-375,stomach neoplasms,1,True
+mir-449c-5p,stomach neoplasms,1,True
+mir-636,urinary bladder neoplasms,1,True
+mir-582-3p,"carcinoma, hepatocellular",1,True
+mir-193b,osteoarthritis,1,True
+mir-133,stomach neoplasms,1,True
+mir-548,urinary bladder neoplasms,1,True
+mir-185,diabetic nephropathies,1,True
+mir-20a,colorectal neoplasms,1,True
+mir-370-3p,thyroid neoplasms,1,True
+mir-377,urinary bladder neoplasms,1,True
+mir-34a,breast neoplasms,1,True
+mir-892a,"carcinoma, hepatocellular",1,True
+mir-506-3p,lupus nephritis,0,True
+mir-1271,"carcinoma, ovarian epithelial",1,True
+mir-106a-5p,leukoaraiosis,0,True
+mir-328-3p,breast neoplasms,1,True
+hsa-mir-3614-3p,"diabetes mellitus, type 2",1,True
+mir-1258,"carcinoma, hepatocellular",1,True
+mir-136-5p,stomach neoplasms,1,True
+mir-638,glioma,1,True
+mir-664,"lymphoma, large b-cell, diffuse",0,True
+mir-1247-3p,urinary bladder neoplasms,1,True
+mir-29b,"lupus erythematosus, systemic",1,True
+mir-184,diabetic retinopathy,1,True
+mir-200c,breast neoplasms,1,True
+mir-566,silicosis,0,True
+mir-888,"lymphoma, large b-cell, diffuse",1,True
+mir-939,coronary atherosclerotic heart disease,1,True
+mir-103a-2-5p,"thyroid cancer, papillary",1,True
+mir-367-5p,stomach neoplasms,1,True
+mir-612,"carcinoma, hepatocellular",1,True
+mir-192,"carcinoma, mucoepidermoid",0,True
+mir-92a-3p,"carcinoma, hepatocellular",0,True
+mir-124,breast neoplasms,1,True
+mir-873-5p,cutaneous squamous cell carcinoma,1,True
+mir-142-5p,urinary bladder neoplasms,1,True
+mir-216b,colorectal neoplasms,1,True
+hsa-mir-496,"leukemia, myeloid, acute",1,True
+mir-499a-3p,infantile hemangioma,1,True
+mir-553,breast neoplasms,1,True
+id-1,cardiac senescence,1,True
+mir-485-3p,endometriosis,0,True
+mir-379,glioma,1,True
+mir-942-5p,uterine cervical neoplasms,1,True
+mir-518a-5p,glioblastoma,1,True
+mir-139b-5p,cutaneous squamous cell carcinoma,1,True
+mir-515-5p,mucocutaneous lymph node syndrome,0,True
+mir-381-3p,"carcinoma, non-small-cell lung",1,True
+mir-320a,uterine cervical neoplasms,1,True
+mir-198,stomach neoplasms,1,True
+mir-4713-5p,"thyroid cancer, papillary",1,True
+mir-490,"diabetes mellitus, type 2",0,True
+mir-518c-5p,colonic neoplasms,1,True
+mir-329-3p,glioma,1,True
+mir-614,"carcinoma, non-small-cell lung",1,True
+mir-99a,melanoma,0,True
+mir-1299,triple negative breast neoplasms,1,True
+mir-1233-3p,breast neoplasms,1,True
+mir-532-5p,stomach neoplasms,1,True
+mir-654-3p,stomach neoplasms,1,True
+mir-600,colorectal neoplasms,1,True
+mir-96-3p,sciatica,0,True
+mir-140-5p,"carcinoma, hepatocellular",1,True
+mir-214,colorectal neoplasms,1,True
+mir-34c,"diabetes, gestational",0,True
+mir-300,cardiac fibrosis,0,True
+mir-767-5p,multiple myeloma,1,True
+mir-526c,"carcinoma, hepatocellular",1,True
+mir-626,urinary bladder neoplasms,1,True
+mir-4753,triple negative breast neoplasms,1,True
+mir-145-5p,coronary atherosclerotic heart disease,0,True
+mir-497,lung neoplasms,1,True
+mir-509-3-5p,stomach neoplasms,1,True
+mir-181b-5p,urinary bladder neoplasms,1,True
+mir-183,stomach neoplasms,1,True
+mir-624-3p,esophageal squamous cell carcinoma,1,True
+mir-197-3p,stomach neoplasms,1,True
+mir-654,glioma,1,True
+mir-1304-5p,osteosarcoma,1,True
+mir-203a-3p.1,colorectal neoplasms,1,True
+mir-449b-5p,urinary bladder neoplasms,0,True
+mir-29b-3p,myocardial senescence,0,True
+mir-3171,"carcinoma, hepatocellular",1,True
+hsa-mir-892b,leukemia,1,True
+mir-204-3p,"carcinoma, renal cell",1,True
+hsa-mir-146a-5p,crohn disease,1,True
+mir-224,urinary bladder neoplasms,1,True
+mir-1227-5p,stomach neoplasms,1,True
+mir-7,stomach neoplasms,1,True
+mir-589,adenocarcinoma of lung,1,True
+mir-145-3p,prostatic neoplasms,1,True
+mir-1236-3p,ovarian neoplasms,1,True
+mir-1238,herpes simplex,0,True
+mir-1248,multiple sclerosis,1,True
+mir-195,stomach neoplasms,1,True
+mir-146a-5p,"leukemia, myelogenous, chronic, bcr-abl positive",0,True
+mir-3911,"thyroid cancer, papillary",1,True
+mir-17,urinary bladder neoplasms,1,True
+mir-520f,"carcinoma, non-small-cell lung",1,True
+mir-566,multiple system atrophy,0,True
+mir-329-5p,stomach neoplasms,1,True
+mir-142,stomach neoplasms,0,True
+mir-646,stomach neoplasms,1,True
+mir-5195-3p,glioblastoma,1,True
+hsa-mir-328-3p,leukemia,1,True
+mir-1285-5p,prostatic neoplasms,1,True
+mir-141-5p,"depressive disorder, major",0,True
+mir-4701-5p,crohn disease,0,True
+mir-200a,"carcinoma, hepatocellular",1,True
+mir-452-5p,primary great saphenous vein varicosities,0,True
+mir-331-3p,stomach neoplasms,1,True
+mir-181c-5p,"prostatic neoplasms, castration-resistant",1,True
+mir-144,"carcinoma, non-small-cell lung",1,True
+mir-124-3p,"leukemia, promyelocytic, acute",1,True
+mir-182-5p,breast neoplasms,1,True
+hsa-mir-5096,hypertension,1,True
+mir-539-5p,precursor cell lymphoblastic leukemia-lymphoma,0,True
+mir-223,urinary bladder neoplasms,1,True
+mir-4685-5p,multiple system atrophy,0,True
+mir-29b,"leukemia, myelogenous, chronic, bcr-abl positive",1,True
+mir-185-5p,heart failure,0,True
+mir-21-5p,colonic neoplasms,1,True
+mir-7161-3p,glioblastoma,1,True
+mir-149,colorectal neoplasms,1,True
+mir-30a,"lymphoma, large b-cell, diffuse",0,True
+mir-556-3p,lung neoplasms,1,True
+mir-518d-5p,uterine cervical neoplasms,1,True
+mir-184,lymphangiogenesis,1,True
+mir-146b-5p,"liver diseases, alcoholic",0,True
+mir-181d,irradiated hepatic stellate cell,0,True
+mir-629,"carcinoma, hepatocellular",1,True
+hif1a,cardiac senescence,1,True
+mir-3186-3p,adenocarcinoma of lung,1,True
+hsa-mir-1273g-3p,hypertension,1,True
+mir-6845-5p,endometrial neoplasms,0,True
+mir-335-5p,breast neoplasms,1,True
+mir-29c-3p,"carcinoma, renal cell",1,True
+mir-21-5p,asthma,0,True
+mir-346,"carcinoma, hepatocellular",1,True
+mir-204,squamous cell carcinoma of head and neck,1,True
+mir-495-3p,cutaneous squamous cell carcinoma,1,True
+mir-199b-5p,colorectal neoplasms,1,True
+mir-196a,lung squamous cell carcinoma,0,True
+mir-4319,stomach neoplasms,1,True
+mir-4778-3p,"thyroid cancer, papillary",1,True
+mir-6809,triple negative breast neoplasms,1,True
+mir-4726-5p,squamous cell carcinoma of head and neck,1,True
+mir-494,urinary bladder neoplasms,1,True
+mir-1275,breast neoplasms,1,True
+mir-518f-3p,infantile hemangioma,1,True
+mir-186-5p,stomach neoplasms,1,True
+mir-425-5p,multiple system atrophy,0,True
+mir-1229-3p,glioma,1,True
+mir-296-5p,"prostatic neoplasms, castration-resistant",0,True
+mir-874-3p,"carcinoma, pancreatic ductal",1,True
+mef2a,vascular endothelial dysfunction,1,True
+epi-mirs,lung neoplasms,0,True
+mir-124,gallbladder neoplasms,1,True
+mir-92,glioblastoma,1,True
+hsa-mir-498,"diabetes mellitus, type 2",1,True
+mir-346,"lymphoma, large b-cell, diffuse",0,True
+let-7e-5p,"carcinoma, mucoepidermoid",1,True
+mir-101b,"diabetes, gestational",0,True
+mir-1298-3p,infantile hemangioma,1,True
+mir-33a-3p,stomach neoplasms,1,True
+hsa-mir-130a-3p,coronary artery disease,1,True
+mir-26a-5p,"tuberculosis, pulmonary",0,True
+mir-340-5p,"carcinoma, hepatocellular",1,True
+mir-488-3p,squamous cell carcinoma of head and neck,1,True
+mir-205,"carcinoma, renal cell",1,True
+mir-2467-3p,colorectal neoplasms,1,True
+mir-451,nasopharyngeal carcinoma,1,True
+mir-452-3p,diabetes mellitus,0,True
+mir-143,ischemic stroke,1,True
+mir-485-3p,multiple myeloma,0,True
+mir-330-3p,"carcinoma, non-small-cell lung",1,True
+mir-148a,"carcinoma, ovarian epithelial",0,True
+mir-218,uterine cervical neoplasms,1,True
+mir-30c,urinary bladder neoplasms,1,True
+mir-136,breast neoplasms,1,True
+mir-542-3p,endometrial neoplasms,1,True
+mir-197.,diabetes mellitus,1,True
+mir-137,infantile hemangioma,1,True
+mir-489,thyroid neoplasms,0,True
+mir-423-5p,lung neoplasms,0,True
+mir-597-5p,colorectal neoplasms,1,True
+mir-188-5p,"carcinoma, hepatocellular",1,True
+mir-3164,triple negative breast neoplasms,1,True
+hsa-mir-5095,hypertension,1,True
+mir-153-3p,uterine cervical neoplasms,1,True
+mir-143-3p,melanoma,1,True
+mir-194,squamous cell carcinoma of head and neck,1,True
+mir-542-3p,"carcinoma, ovarian epithelial",1,True
+mir-326,breast neoplasms,1,True
+mir-1228,liver neoplasms,1,True
+mir-507,diabetic retinopathy,0,True
+mir-582,colorectal neoplasms,1,True
+mir-21,colorectal neoplasms,1,True
+let-7f,"depressive disorder, major",0,True
+mir-671-5p,stomach neoplasms,1,True
+mir-34b-5p,"thyroid cancer, papillary",1,True
+mir-335-3p,ischemic stroke,1,True
+mir-760,colonic neoplasms,1,True
+cdk6,chronic thromboembolic pulmonary hypertension,1,True
+mir-378a-3p,pancreatic neoplasms,1,True
+mir-320,crohn disease,0,True
+mir-302b-3p,squamous cell carcinoma of head and neck,1,True
+mir-296-3p,"carcinoma, renal cell",1,True
+mir-23b-5p,cutaneous squamous cell carcinoma,1,True
+mir-1183,glioma,1,True
+mir-101,urinary bladder neoplasms,1,True
+hsa-mir-138-5p,leukemia,1,True
+mir-206,stomach neoplasms,1,True
+mir-150-5p,uterine cervical neoplasms,1,True
+mir-1257,glioblastoma,1,True
+mir-556-3p,"diabetes mellitus, type 2",0,True
+mir-218-5p,"carcinoma, hepatocellular",1,True
+mirna-29a-3p,triple negative breast neoplasms,0,True
+mir-625,"carcinoma, pancreatic ductal",1,True
+mir-199a-5p,"diabetes mellitus, type 2",0,True
+mir-200c-3p,breast neoplasms,1,True
+mir-448,osteosarcoma,1,True
+mir-17-3p,liver neoplasms,1,True
+mir-181,"leukemia, myeloid, acute",1,True
+mir-34a-3p,hypopharyngeal neoplasms,0,True
+mir-19a,osteosarcoma,1,True
+mir-520a-5p,infantile hemangioma,1,True
+mir-125a-5p,breast neoplasms,1,True
+mir-765,cutaneous squamous cell carcinoma,1,True
+mir-1287,breast neoplasms,1,True
+mir-376a,salivary adenoid cystic carcinoma,0,True
+mir-338,pancreatic neoplasms,1,True
+mir-525-5p,acne vulgaris,0,True
+mir-1271,breast neoplasms,1,True
+mir-135-5p,"leukemia, myeloid, acute",1,True
+mir-5047,uterine cervical neoplasms,1,True
+mir-150,colorectal neoplasms,1,True
+sa-mir-940,chronic thromboembolic pulmonary hypertension,1,True
+mir-485-5p,"epilepsy, temporal lobe",1,True
+mir-615-5p,vascular endothelial dysfunction,1,True
+mir-6783-3p,glioblastoma,1,True
+mir-373-3p,"diabetes, gestational",0,True
+mir-452-5p,"carcinoma, hepatocellular",1,True
+mir-200c,laryngeal neoplasms,1,True
+mir-30b,essential hypertension,0,True
+mir-484,diabetic nephropathies,0,True
+mir-490-3p,esophageal squamous cell carcinoma,1,True
+mir-615-5p,precursor t-cell lymphoblastic leukemia-lymphoma,1,True
+mir-23a-3p,squamous cell carcinoma of head and neck,1,True
+mir-98,"osteoporosis, postmenopausal",1,True
+mir-488-3p,hirschsprung disease,1,True
+mir-1247-5p,cutaneous squamous cell carcinoma,1,True
+mir-193a-3p,prostatic neoplasms,1,True
+mir-1273a,colonic neoplasms,1,True
+mirna-204,"leukemia, myeloid, acute",0,True
+mir-181,"carcinoma, hepatocellular",1,True
+mir-30c-2-3p,breast neoplasms,1,True
+mir-1244,osteosarcoma,1,True
+mir-200b,breast neoplasms,1,True
+mir-516b,colorectal neoplasms,1,True
+mir-608,"thyroid cancer, papillary",1,True
+mir-29b-3p,breast neoplasms,1,True
+mir-138-5p,glioblastoma,1,True
+mir-200b-3p,"carcinoma, non-small-cell lung",1,True
+mir-141-5p,triple negative breast neoplasms,1,True
+ube2a,t2dm with depression,0,True
+mir-19b-3p,rectal neoplasms,1,True
+mir-424,osteosarcoma,1,True
+mir-34a-5p,urinary bladder neoplasms,1,True
+mir-515-5p,urinary bladder neoplasms,1,True
+mir-337-3p,uterine cervical neoplasms,1,True
+mir-510-5p,squamous cell carcinoma of head and neck,1,True
+mir-516a-5p,"carcinoma, hepatocellular",1,True
+mir-20a-5p,"leukemia, myeloid, acute",1,True
+mir-4769-5p,"diabetes mellitus, type 2",0,True
+mir-1205,glioma,1,True
+mir-222,endometrial neoplasms,0,True
+mir-186,lung squamous cell carcinoma,1,True
+mir-1290,squamous cell carcinoma of head and neck,1,True
+mir-361-3p,uterine cervical neoplasms,1,True
+hsa-mir-943,"liver cirrhosis, biliary",1,True
+mir-93,breast neoplasms,1,True
+mir-25-3p,"leukemia, myeloid, acute",0,True
+mir-503,stomach neoplasms,1,True
+mir-770,atherosclerosis,0,True
+mir-31*,alzheimer disease,0,True
+mir-22-3p,adenocarcinoma of lung,1,True
+mir-498,uterine cervical neoplasms,1,True
+mir-107,urinary bladder neoplasms,1,True
+hsa-mir-522-3p,"liver cirrhosis, biliary",1,True
+mir-203,"leukemia, myeloid, acute",1,True
+mir-153-3p,melanoma,1,True
+mir-890,glioma,1,True
+hsa-mir-940,chronic thromboembolic pulmonary hypertension,1,True
+mir-519d-3p,osteoarthritis,1,True
+mir-522-3p,inflammatory bowel diseases,0,True
+mir-6506-5p,stomach neoplasms,1,True
+crkl,chronic thromboembolic pulmonary hypertension,1,True
+mir-130a,stomach neoplasms,1,True
+mirna-130a,bladder urothelial carcinoma,0,True
+mir-17-5p,prostatic neoplasms,1,True
+mir-647,ovarian neoplasms,1,True
+mir-410-3p,"diabetes, gestational",0,True
+mir-16-5p,stomach neoplasms,1,True
+mir-1271-3p,infantile hemangioma,1,True
+mir-532-3p,colorectal neoplasms,1,True
+mir199a2,diabetes mellitus,0,True
+mir-544a,glioma,1,True
+mir-637,stomach neoplasms,1,True
+mir-195-5p,"carcinoma, renal cell",1,True
+mir-1270,urinary bladder neoplasms,1,True
+mir-26b,pancreatic neoplasms,1,True
+mir-153,"carcinoma, renal cell",1,True
+mir-8075,uterine cervical neoplasms,1,True
+mir-34a,"carcinoma, pancreatic ductal",1,True
+mir-217,retinal neurodegeneration,1,True
+mir-1294,hematopoiesis,0,True
+mir-7-5p,breast neoplasms,1,True
+mir-5047,pre-eclampsia,0,True
+mir-7-5p,nasopharyngeal carcinoma,1,True
+mir-548g,active tuberculosis,0,True
+mir-18a,myocardial infarction,0,True
+mir-566,adenocarcinoma of lung,1,True
+mir-106a-5p,lung neoplasms,0,True
+mir-330-5p,glioma,1,True
+mir-653,urinary bladder neoplasms,1,True
+mir-1297,hepatocellular steatosis,0,True
+mir-613,colorectal neoplasms,1,True
+mir-5095,esophageal neoplasms,1,True
+mir-217,pancreatic neoplasms,1,True
+mir-93-3p,metabolism-related diseases,0,True
+mir-567,adenocarcinoma of lung,1,True
+mir-15b-5p,inflammatory bowel diseases,0,True
+mir-497-5p,stomach neoplasms,1,True
+mir-203a-3p,osteosarcoma,1,True
+hsa-mir-940,"leukemia, promyelocytic, acute",0,True
+mir-569,osteosarcoma,1,True
+mir-150,lupus nephritis,1,True
+mir-370-3p,colorectal neoplasms,1,True
+mir-665,"carcinoma, hepatocellular",1,True
+mir-645-ifit2,alzheimer disease,0,True
+mir-877-3p,stomach neoplasms,1,True
+mir-568,active tuberculosis,0,True
+mir-1227,endometrial neoplasms,1,True
+mir-3942-3p,breast neoplasms,1,True
+mir-296-5p,"carcinoma, renal cell",1,True
+mir-490-5p,"carcinoma, hepatocellular",1,True
+mir-593-3p,"carcinoma, non-small-cell lung",1,True
+mir-6884,prostatic neoplasms,1,True
+mir-22,adenocarcinoma of lung,1,True
+has-mir-203,osteoporosis,1,True
+mir-208a,triple negative breast neoplasms,1,True
+mir-152-3p,"diabetes, gestational",0,True
+mir-299,breast neoplasms,0,True
+mir-5008,prostatic neoplasms,1,True
+mir-1200,osteosarcoma,1,True
+mir-1307,"carcinoma, hepatocellular",1,True
+mir-2113,infantile hemangioma,1,True
+mir-338-5p,colorectal neoplasms,1,True
+mir-185-5p,repeated implantation failure,0,True
+mir-296-3p,"leukemia, myelogenous, chronic, bcr-abl positive",0,True
+mir-129-5p,"carcinoma, hepatocellular",1,True
+mir-607,"leukemia, lymphocytic, chronic, b-cell",1,True
+mir-892b,infantile hemangioma,1,True
+mir-424-5p,liver neoplasms,1,True
+mir-302e,"carcinoma, non-small-cell lung",1,True
+let-7c-5p,endometrial neoplasms,1,True
+mir-4269,stomach neoplasms,1,True
+mir-106a-3p,liver neoplasms,1,True
+hsa-mir-637,essential hypertension,1,True
+mir-484,"carcinoma, hepatocellular",1,True
+mir-7,esophageal squamous cell carcinoma,1,True
+mir-199a-3p,retinoblastoma,0,True
+mir-548c-3p,hypopharyngeal neoplasms,1,True
+mir-570-3p,urinary bladder neoplasms,1,True
+mir-34a-5p,hypopharyngeal neoplasms,0,True
+mir-16,stomach neoplasms,1,True
+mir-873-3p,lung squamous cell carcinoma,1,True
+mir-625-5p,glioma,1,True
+mir-31,colorectal neoplasms,1,True
+mir-485-3p,breast neoplasms,1,True
+hif1a,"vitreoretinopathy, proliferative",0,True
+mir-7,"carcinoma, non-small-cell lung",1,True
+mir-145-5p,urinary bladder neoplasms,1,True
+mir-9,"carcinoma, hepatocellular",1,True
+mir-500a-5p,"thyroid cancer, papillary",1,True
+mir-1246,"vitreoretinopathy, proliferative",0,True
+mir-139,osteoporosis,0,True
+mir-499-5p,myocardial senescence,0,True
+hsa-mir-5095,ischemic stroke,0,True
+mir-103,"carcinoma, hepatocellular",1,True
+mir-141-3p,"carcinoma, hepatocellular",1,True
+mir-513b-5p,ovarian neoplasms,1,True
+mir-1912,esophageal neoplasms,1,True
+mir-4688,"carcinoma, hepatocellular",1,True
+mir-4493,glioma,1,True
+mir-208b-5p,"thyroid cancer, papillary",1,True
+mir-25,cholangiocarcinoma,0,True
+mir-106b-5p,colonic neoplasms,1,True
+mir-506,uterine cervical neoplasms,1,True
+mir-362-3p,"carcinoma, hepatocellular",1,True
+mir-486,"carcinoma, hepatocellular",1,True
+mir-653-5p,"carcinoma, non-small-cell lung",1,True
+mir-384,"diabetes mellitus, type 2",0,True
+mir-1304,stomach neoplasms,1,True
+mir-133a,multiple sclerosis,0,True
+mir-299-3p,cutaneous squamous cell carcinoma,1,True
+mir-4520-2-3p,"thyroid cancer, papillary",1,True
+hsa-mir-146b-5p,crohn disease,1,True
+mir155hg,herpes simplex,0,True
+mir-593,breast neoplasms,1,True
+mir-93-3p,cutaneous squamous cell carcinoma,1,True
+mir-503-5p,stomach neoplasms,1,True
+mir-181d-5p,myocardial infarction,0,True
+mir-191,"carcinoma, hepatocellular",1,True
+mir-153,stomach neoplasms,1,True
+mir-181a-5p,urinary bladder neoplasms,1,True
+mir-216a-3p,infantile hemangioma,1,True
+mir-370-3p,esophageal neoplasms,1,True
+mir-665,cutaneous squamous cell carcinoma,1,True
+mir-577,nasopharyngeal carcinoma,1,True
+mir-486-3p,squamous cell carcinoma of head and neck,1,True
+mir-150,tuberculosis,0,True
+mir-146b-3p,urinary bladder neoplasms,1,True
+mir-9-5p,liver neoplasms,1,True
+mir-149,stomach neoplasms,1,True
+19b,uterine cervical neoplasms,0,True
+mir-29b-1-5p,"carcinoma, ovarian epithelial",0,True
+mir-30b-3p,"hemorrhagic fever, ebola",1,True
+mir-455-3p,"arthritis, rheumatoid",1,True
+mir-26a-5p,osteosarcoma,1,True
+mir-1245,lung neoplasms,1,True
+mir-135b-3p,lung neoplasms,1,True
+mir-876-3p,"arthritis, rheumatoid",1,True
+mir-4659b-3p,"thyroid cancer, papillary",1,True
+mir-585-5p,"leukemia, promyelocytic, acute",0,True
+mir-23b,essential hypertension,0,True
+mir-125b,"carcinoma, non-small-cell lung",1,True
+mir-214-3p,"carcinoma, mucoepidermoid",1,True
+mir-106b-5p,"leukemia, lymphocytic, chronic, b-cell",0,True
+mir-9-5p,irradiated hepatic stellate cell,1,True
+mir-411,"carcinoma, renal cell",1,True
+mir-421,stomach neoplasms,1,True
+mir-7,colorectal neoplasms,1,True
+mir-186,salivary adenoid cystic carcinoma,0,True
+mir-1299,breast neoplasms,1,True
+mir-152-3p,triple negative breast neoplasms,1,True
+mir-558,ischemic stroke,0,True
+mir-6079,squamous cell carcinoma of head and neck,1,True
+hsa-mir-571,leukemia,1,True
+mir-328-5p,colorectal neoplasms,1,True
+mir-3619-5p,"carcinoma, hepatocellular",1,True
+mir-502-5p,stomach neoplasms,1,True
+mir-217,liver neoplasms,1,True
+mir-566,diabetes mellitus,0,True
+mir-378,lung neoplasms,1,True
+mir-4524a-5p,"thyroid cancer, papillary",1,True
+mir-431,intervertebral disc degeneration,1,True
+mir-23c,urinary bladder neoplasms,1,True
+mir-1256,stomach neoplasms,1,True
+mir-93-5p,uterine cervical neoplasms,1,True
+mir-29a-3p,urinary bladder neoplasms,1,True
+mir-622,"carcinoma, hepatocellular",1,True
+mir-505,"carcinoma, renal cell",1,True
+mir-221,urinary bladder neoplasms,1,True
+mir-1224-5p,urinary bladder neoplasms,1,True
+mir-1182,colorectal neoplasms,1,True
+mir-3680-3p,esophageal squamous cell carcinoma,1,True
+mir-134,adenocarcinoma of lung,1,True
+mir-516b-5p,lung neoplasms,1,True
+mir-942,ovarian neoplasms,1,True
+mir-125a,pancreatic neoplasms,1,True
+mir-1207-5p,aortic aneurysm,0,True
+mir-6819-5p,"thyroid cancer, papillary",1,True
+mir-711,osteosarcoma,1,True
+mir-128,colorectal neoplasms,1,True
+mir-125b-5p,osteosarcoma,1,True
+mir-19b-3p,"carcinoma, non-small-cell lung",1,True
+mir-145,colorectal neoplasms,1,True
+mir-766,osteosarcoma,1,True
+mir-628-5p,glioblastoma,1,True
+hsa-mir-571,colonic neoplasms,0,True
+mirna-218-5p,"epilepsy, temporal lobe",0,True
+mir-181a-2-3p,cutaneous squamous cell carcinoma,1,True
+mir-1261,glioma,1,True
+mir-766,multiple sclerosis,1,True
+mir-96-5p,"carcinoma, non-small-cell lung",1,True
+mir-193a-5p,prostatic neoplasms,1,True
+mir-659,breast neoplasms,1,True
+mir-767-3p,"carcinoma, hepatocellular",1,True
+mir-640,essential hypertension,0,True
+mir-326-5p,cardiac senescence,0,True
+mir-127-5p,glucocorticoid-induced osteonecrosis of femoral head,1,True
+mir-34a,fatty liver,1,True
+mir-140-3p,glioblastoma,1,True
+mir-19b,osteosarcoma,1,True
+mir-205-3p,glioma,0,True
+mir-3607,breast neoplasms,1,True
+mmp13,osteoarthritis,1,True
+hsa-mir-182-5p,crohn disease,1,True
+mir-224-5p,glioma,1,True
+mir-202,immunosenescence,0,True
+mir-122,"liver diseases, alcoholic",1,True
+mir-527,glioma,1,True
+mir-152,mucocutaneous lymph node syndrome,0,True
+mir-9-5p,liver cirrhosis,1,True
+mir-22-3p,"carcinoma, non-small-cell lung",1,True
+mir-449a,breast neoplasms,1,True
+mir-4760-3p,breast neoplasms,1,True
+hsa-mir-146b-5p,mucocutaneous lymph node syndrome,0,True
+mir-140,"liver diseases, alcoholic",0,True
+mir-1265,urinary bladder neoplasms,1,True
+mir-101-3p,colorectal neoplasms,1,True
+hsa-mir-30c-1-3p,leukemia,1,True
+mir-211-3p,infantile hemangioma,0,True
+mir-335,uterine cervical neoplasms,1,True
+mir-1324,"carcinoma, hepatocellular",1,True
+mir-5196-3p,"thyroid cancer, papillary",1,True
+mmp13,osteoporosis,0,True
+mir-183,retinoblastoma,1,True
+mir-762,urinary bladder neoplasms,1,True
+mir-200,stomach neoplasms,1,True
+mir-3666,urinary bladder neoplasms,1,True
+mir-133a-5p,"carcinoma, non-small-cell lung",1,True
+mir-142-3p,glioma,1,True
+mir-466i-5p,prostatic neoplasms,0,True
+mir-4641,"carcinoma, hepatocellular",1,True
+mir-149-5p,uterine cervical neoplasms,1,True
+mir-522-3p,lung neoplasms,1,True
+mir-363-3p,glioma,0,True
+mir-200s,alzheimer disease,0,True
+mir-590-5p,"diabetes, gestational",0,True
+mir-4640-5p,squamous cell carcinoma of head and neck,1,True
+mir-125a-3p,glioma,1,True
+mir-323a-5p,"arthritis, rheumatoid",1,True
+mir-330,pancreatic neoplasms,1,True
+mir-933,squamous cell carcinoma of head and neck,1,True
+mir-30b-3p,hematopoiesis,0,True
+mir-374b-5p,"carcinoma, non-small-cell lung",0,True
+mir-148b-3p,endometriosis,0,True
+mir-338-3p,salivary adenoid cystic carcinoma,1,True
+mir-379-5p,glioblastoma,1,True
+mir-370,gallbladder neoplasms,1,True
+mir-6812-5p,"thyroid cancer, papillary",1,True
+mir-377-3p-e2f3,cholangiocarcinoma,0,True
+mir-1229,colonic neoplasms,1,True
+mir-143,breast neoplasms,1,True
+mir-525-5p,hepatoblastoma,0,True
+mir-326-3p,stomach neoplasms,1,True
+mir-138-5p,glioma,1,True
+mir-761,glioma,1,True
+mir-433,uterine cervical neoplasms,1,True
+let-7g-5p,"arthritis, rheumatoid",1,True
+mir-743b-5,colorectal neoplasms,0,True
+mir-4302,lung neoplasms,1,True
+mir-7,osteosarcoma,1,True
+mir-221,carotid plaque rupture,1,True
+mir-214-5p,stomach neoplasms,1,True
+mir-539-5p,squamous cell carcinoma of head and neck,0,True
+mir-127-5p,"carcinoma, hepatocellular",1,True
+mir-431-5p,squamous cell carcinoma of head and neck,1,True
+mir-130a-3p,lung neoplasms,0,True
+mir-548g,stomach neoplasms,1,True
+mir-411-5p,"carcinoma, hepatocellular",1,True
+mir-484,repeated implantation failure,0,True
+mir-431,"vitreoretinopathy, proliferative",0,True
+mir-670-5p,esophageal squamous cell carcinoma,1,True
+mir-30c-2*,esophageal neoplasms,1,True
+mir-770-5p,hepatoblastoma,0,True
+mir-181b,esophageal squamous cell carcinoma,0,True
+fak,cardiac senescence,1,True
+mir-125b-1,ischemic stroke,0,True
+mir-552-3p,liver neoplasms,1,True
+mir-19,myocardial infarction,0,True
+mir-137-3p,pancreatic neoplasms,1,True
+mir-7,alzheimer disease,1,True
+mir-1179,"carcinoma, non-small-cell lung",1,True
+mir-99a,"liver cirrhosis, biliary",0,True
+mir-122*,esophageal neoplasms,1,True
+mir-184,tuberculosis,0,True
+mir-940,thyroid neoplasms,1,True
+mir-875-3p,"carcinoma, hepatocellular",1,True
+mir-885-5p,"thyroid cancer, papillary",1,True
+mir-1253,"carcinoma, non-small-cell lung",1,True

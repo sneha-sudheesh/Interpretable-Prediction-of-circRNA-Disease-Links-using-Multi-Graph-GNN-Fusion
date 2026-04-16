@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+project.zip
+project.zip
+*.zip

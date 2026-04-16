@@ -1,0 +1,268 @@
+Experiment: GraphSAGE (degree-only node features)
+Model: HeteroGraphSAGE
+Hidden dim: 64
+Optimizer: Adam (lr = 1e-3)
+Epochs: 50
+Decoder: Dot product
+Data split: Fixed (predefined train/val/test)
+Runs: 5 seeds (42–46)
+
+LOG DEGREE ONLY
+===== FINAL RESULTS =====
+   seed       auc      aupr
+0    42  0.596514  0.190157
+1    43  0.652749  0.193994
+2    44  0.685721  0.212014
+3    45  0.665043  0.205775
+4    46  0.731418  0.270211
+
+Mean ± Std
+           auc     aupr
+mean  0.666289  0.21443
+std   0.049175  0.03240
+
+DEGREE ONLY
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.354291  0.751284  0.483689
+1    43       0.352543  0.753620  0.471567
+2    44       0.352091  0.751234  0.386013
+3    45       0.362520  0.737913  0.428415
+4    46       0.351457  0.782450  0.441614
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.354580  0.755300  0.442260
+std        0.004561  0.016393  0.038507
+
+ONE HOT + DEGREE
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.367858  0.716307  0.436818
+1    43       0.351731  0.750969  0.436285
+2    44       0.371768  0.796136  0.430237
+3    45       0.358272  0.765682  0.432723
+4    46       0.350514  0.752692  0.378633
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.360029  0.756357  0.422939
+std        0.009508  0.028791  0.024913
+
+
+ONE HOT + DEGREE + LOG DEGREE
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.350516  0.818637  0.470698
+1    43       0.353817  0.772376  0.440971
+2    44       0.354645  0.814329  0.440297
+3    45       0.356492  0.768068  0.435834
+4    46       0.359350  0.783842  0.455143
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.354964  0.791450  0.448589
+std        0.003270  0.023616  0.014329
+
+LOG DEGREE + DEGREE
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.352925  0.775640  0.419262
+1    43       0.351472  0.785698  0.464702
+2    44       0.352028  0.748981  0.432225
+3    45       0.351410  0.810187  0.487557
+4    46       0.353894  0.731285  0.453498
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.352346  0.770358  0.451449
+std        0.001057  0.030956  0.026876
+
+BASELINE SELECTED: DEGREE + LOG DEGREE
+(precedence changed in split file)
++BETWEENNESS CENTRALITY
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.567954  0.895011  0.565435
+1    43       0.395730  0.774947  0.499876
+2    44       0.386063  0.837420  0.505360
+3    45       0.387604  0.819138  0.473206
+4    46       0.386478  0.814825  0.498307
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.424766  0.828268  0.508437
+std        0.080142  0.043720  0.034188
+
++BETWEENNESS CENTRALITY (NO LOG DEGREE)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.392207  0.787455  0.473965
+1    43       0.393374  0.798182  0.476881
+2    44       0.390532  0.798040  0.497111
+3    45       0.391287  0.779330  0.472459
+4    46       0.393534  0.777245  0.467667
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.392187  0.788051  0.477617
+std        0.001301  0.009945  0.011396
+
+
++BETWEENNESS CENTRALITY (NO DEGREE)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.390242  0.744904  0.277287
+1    43       0.391948  0.769031  0.353563
+2    44       0.391501  0.798681  0.299743
+3    45       0.581863  0.947577  0.702816
+4    46       0.391928  0.713542  0.237436
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.429497  0.794747  0.374169
+std        0.085178  0.090984  0.188451
+
++EIGENVECTOR CENTRALITY (normalized)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.567941  0.895046  0.565496
+1    43       0.395343  0.775445  0.496542
+2    44       0.386064  0.837420  0.505360
+3    45       0.387603  0.819280  0.473371
+4    46       0.386725  0.814576  0.507605
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.424735  0.828354  0.509675
+std        0.080142  0.043593  0.034019
+
++EIGENVECTOR CENTRALITY (not normalized)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.567939  0.895011  0.565521
+1    43       0.395343  0.775374  0.495292
+2    44       0.386064  0.837420  0.505360
+3    45       0.387603  0.819280  0.473371
+4    46       0.386725  0.814540  0.507760
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.424735  0.828325  0.509461
+std        0.080141  0.043604  0.034153
+
++EIGENVECTOR CENTRALITY (normalized, NO DEGREE)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.392209  0.787545  0.473641
+1    43       0.393375  0.798147  0.476867
+2    44       0.390535  0.798218  0.496319
+3    45       0.391286  0.779259  0.472413
+4    46       0.393530  0.777512  0.467973
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.392187  0.788136  0.477442
+std        0.001300  0.009923  0.011024
+
++GIP - edge feature (circRNA-circRNA, miRNA-miRNA similarities)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.387337  0.823378  0.500024
+1    43       0.395649  0.815895  0.518139
+2    44       0.392314  0.779187  0.487368
+3    45       0.387829  0.825802  0.513030
+4    46       0.385656  0.804348  0.462027
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.389757  0.809722  0.496118
+std        0.004112  0.019003  0.022500
+
+-------------------------------------------------
+DEGREE + LOG DEGREE + BETWEENNESS CENTRALITY + ONE HOT
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.380584  0.827477  0.428316
+1    43       0.384830  0.830114  0.513823
+2    44       0.398494  0.819850  0.508242
+3    45       0.392750  0.833215  0.509137
+4    46       0.384886  0.810727  0.496787
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.388309  0.824277  0.491261
+std        0.007193  0.009047  0.035740
+
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.395119  0.743835  0.474851
+1    43       0.386602  0.816465  0.521139
+2    44       0.389669  0.813756  0.516897
+3    45       0.387820  0.807377  0.487672
+4    46       0.385867  0.796864  0.450476
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.389015  0.795659  0.490207
+std        0.003703  0.029937  0.029538
+
+//when i removed one hot
+
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.380688  0.840770  0.411505
+1    43       0.385453  0.837384  0.478608
+2    44       0.400297  0.828760  0.487647
+3    45       0.393798  0.842088  0.496458
+4    46       0.386541  0.812937  0.450920
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.389355  0.832388  0.465028
+std        0.007709  0.012050  0.034451
+//when i added eigen instead of betweenness
+
+SELECTED: DEGREE + LOG DEGREE + BETWEENNESS CENTRALITY + ONE HOT
+REASONS:
+Degree
+What it measures: Number of interactions a node has.
+
+Biological meaning:
+High-degree circRNAs or miRNAs interact with many partners
+Indicates interaction richness or well-studied regulatory hubs
+
+Explains:
+How involved is this node in the biological network?
+(It captures participation, not mechanism.)
+
+Log-Degree
+What it measures: Scaled version of degree to handle large hubs.
+
+Biological meaning:
+Prevents highly connected nodes from dominating learning
+Allows moderately connected but meaningful nodes to contribute
+
+Explains:
+Is this node important beyond sheer popularity?
+
+Betweenness Centrality
+What it measures: Frequency of a node lying on shortest paths.
+
+Biological meaning:
+Identifies regulatory bridge nodes, especially miRNAs
+Highlights nodes that mediate circRNA–miRNA–disease pathways
+
+Explains:
+Is this node critical for biological information flow?
+(This provides path-based, mechanistic interpretability.)
+
+Node-Type One-Hot
+What it measures: Semantic role of the node (circRNA / miRNA / disease).
+
+Biological meaning:
+Distinguishes regulators, mediators, and outcomes
+Prevents structurally similar nodes from being misinterpreted
+
+Explains:
+What biological role does this node play?

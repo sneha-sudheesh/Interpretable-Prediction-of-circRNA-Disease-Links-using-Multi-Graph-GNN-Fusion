@@ -1,0 +1,32 @@
+==============================================================
+GIP EDGE IMPORTANCE — ANALYSIS REPORT
+==============================================================
+
+Methodology note
+  Interpretability is performed on the shared GraphSAGE encoder
+  backbone using a dot-product link predictor — not the full weighted
+  fusion model. This is justified because: (1) the encoder is the
+  component that learns graph structure from GIP edges; (2) the fusion
+  predictor combines pre-computed embeddings and cannot be ablated at
+  the edge level. Results capture encoder-level GIP contribution.
+
+Overall performance (mean across 5 folds)
+  With GIP    : AUC = 0.7094
+  Without GIP : AUC = 0.6561
+  ΔAUC        : +0.0533
+
+Per-quartile delta AUC (with GIP − without GIP)
+ quartile  n_nodes  mean_delta_auc  std_delta_auc
+ Q1 (low)      186        0.070341       0.604656
+       Q2        0             NaN            NaN
+       Q3        0             NaN            NaN
+Q4 (high)       15       -0.016667       0.520150
+
+Key observation
+GIP edges benefit LOW-degree circRNA nodes most.
+  Q1 ΔAUC = +0.0703  vs  Q4 ΔAUC = -0.0167
+  This confirms GIP similarity edges compensate for sparse
+  biological interaction data in low-connectivity circRNAs.
+
+Outputs saved to: /Users/sneha/circRNA-disease-gnn/circRNA-disease-gnn/results/interpretability
+==============================================================

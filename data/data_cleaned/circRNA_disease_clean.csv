@@ -1,0 +1,986 @@
+circRNA,disease
+circ-anapc7,"leukemia, myeloid, acute"
+hsa_circ_0000488,"leukemia, myeloid, acute"
+hsa_circ_0009910,"leukemia, myeloid, acute"
+hsa_circ_100290,"leukemia, myeloid, acute"
+circpan3,"leukemia, myeloid, acute"
+circrna_100290,"leukemia, myeloid, acute"
+circ-hipk2,"leukemia, promyelocytic, acute"
+bcrc-3,urinary bladder neoplasms
+cdr1as,urinary bladder neoplasms
+circcep128,urinary bladder neoplasms
+circdock1,urinary bladder neoplasms
+circfndc3b,urinary bladder neoplasms
+circ-foxo3,urinary bladder neoplasms
+circfut8,urinary bladder neoplasms
+circ-itch,urinary bladder neoplasms
+circlpar1,urinary bladder neoplasms
+circmto1,urinary bladder neoplasms
+circnr3c1,urinary bladder neoplasms
+circpicalm,urinary bladder neoplasms
+circptpra,urinary bladder neoplasms
+circrgnef,urinary bladder neoplasms
+circrip2,urinary bladder neoplasms
+circslc8a1,urinary bladder neoplasms
+circubxn7,urinary bladder neoplasms
+circuvrag,urinary bladder neoplasms
+circvangl1,urinary bladder neoplasms
+circzfr,urinary bladder neoplasms
+circ-zkscan1,urinary bladder neoplasms
+cirs-6,urinary bladder neoplasms
+ctfrc,urinary bladder neoplasms
+hsa_circ_0137439,urinary bladder neoplasms
+hsa_circ_0000144,urinary bladder neoplasms
+hsa_circ_0000799,urinary bladder neoplasms
+hsa_circ_0001073,urinary bladder neoplasms
+hsa_circ_0001361,urinary bladder neoplasms
+hsa_circ_0001429,urinary bladder neoplasms
+hsa_circ_0018069,urinary bladder neoplasms
+hsa_circ_0058063,urinary bladder neoplasms
+hsa_circ_0068871,urinary bladder neoplasms
+hsa_circ_0071662,urinary bladder neoplasms
+hsa_circ_0075828,urinary bladder neoplasms
+hsa_circ_0137606,urinary bladder neoplasms
+hsa_circ_100242,urinary bladder neoplasms
+hsa_circrna_102336,urinary bladder neoplasms
+circctdp1,urinary bladder neoplasms
+circmylk,urinary bladder neoplasms
+hsa_circ_001598,urinary bladder neoplasms
+hsa_circ_0041103,urinary bladder neoplasms
+hsa_circ_0002768,urinary bladder neoplasms
+circ-prmt5,urinary bladder neoplasms
+circhipk3,bladder urothelial carcinoma
+circ-abcb10,breast neoplasms
+circacap2,breast neoplasms
+circass1,breast neoplasms
+circbmpr2,breast neoplasms
+circ-cdyl,breast neoplasms
+circdennd4c,breast neoplasms
+circehmt1,breast neoplasms
+circirak3,breast neoplasms
+circkdm4c,breast neoplasms
+circmyo9b,breast neoplasms
+circrna_000911,breast neoplasms
+circrna-cer,breast neoplasms
+circ-ube2d2,breast neoplasms
+hsa_circ_0001098,breast neoplasms
+hsa_circ_0004771,breast neoplasms
+hsa_circ_0005230,breast neoplasms
+hsa_circ_0006528,breast neoplasms
+hsa_circ_0007255,breast neoplasms
+hsa_circ_0007534,breast neoplasms
+hsa_circ_0008039,breast neoplasms
+hsa_circ_001783,breast neoplasms
+hsa_circ_0025202,breast neoplasms
+hsa_circ_0052112,breast neoplasms
+hsa_circ_0061825,breast neoplasms
+hsa_circ_0068033,breast neoplasms
+hsa_circ_0072309,breast neoplasms
+hsa_circ_0072995,breast neoplasms
+hsa_circ_0103552,breast neoplasms
+hsa_circ_0136666,breast neoplasms
+hsa_circ_100219,breast neoplasms
+hsa_circrna_002178,breast neoplasms
+circhipk3,breast neoplasms
+circccdc66,breast neoplasms
+hsa_circ_0001982,breast neoplasms
+hsa_circ_0005239,breast neoplasms
+hsa_circ_0000073,breast neoplasms
+hsa_circ_0000911,breast neoplasms
+hsa_circ_0008717,breast neoplasms
+hsa_circ_0001427,"prostatic neoplasms, castration-resistant"
+circagfg1,uterine cervical neoplasms
+circ-atp8a2,uterine cervical neoplasms
+circclk3,uterine cervical neoplasms
+circeif4g2,uterine cervical neoplasms
+circ-itch,uterine cervical neoplasms
+circmto1,uterine cervical neoplasms
+circrna_000284,uterine cervical neoplasms
+circrna_8924,uterine cervical neoplasms
+hsa_circ_0000263,uterine cervical neoplasms
+hsa_circ_0000515,uterine cervical neoplasms
+hsa_circ_0001038,uterine cervical neoplasms
+hsa_circ_0001445,uterine cervical neoplasms
+hsa_circ_0004214,uterine cervical neoplasms
+hsa_circ_0005576,uterine cervical neoplasms
+hsa_circ_0007534,uterine cervical neoplasms
+hsa_circ_0023404,uterine cervical neoplasms
+hsa_circ_0031288,uterine cervical neoplasms
+hsa_circ_0033550,uterine cervical neoplasms
+hsa_circ_0060467,uterine cervical neoplasms
+hsa_circ_0067934,uterine cervical neoplasms
+hsa_circ_0075341,uterine cervical neoplasms
+hsa_circ_103973,uterine cervical neoplasms
+hsa_circ_cspp1,uterine cervical neoplasms
+hsa_circrna_101996,uterine cervical neoplasms
+circccdc66,uterine cervical neoplasms
+hsa_circ_0005230,cholangiocarcinoma
+circ-cbfb,"leukemia, lymphocytic, chronic, b-cell"
+hsa_circ_0080145,"leukemia, myelogenous, chronic, bcr-abl positive"
+circatp2b1,"carcinoma, renal cell"
+circpcnxl2,"carcinoma, renal cell"
+hsa_circ_001895,"carcinoma, renal cell"
+circhiat1,"carcinoma, renal cell"
+circ-cdyl,colonic neoplasms
+circdennd4c,colonic neoplasms
+circpip5k1a,colonic neoplasms
+circrna-acap2,colonic neoplasms
+hsa_circ_00001666,colonic neoplasms
+hsa_circ_0001313,colonic neoplasms
+hsa_circ_0005963,colonic neoplasms
+hsa_circ_0007843,colonic neoplasms
+hsa_circ_0055625,colonic neoplasms
+cbl.11,colorectal neoplasms
+circanks1b,colorectal neoplasms
+circcct3,colorectal neoplasms
+hsa_circ_0000284,colorectal neoplasms
+circitga7,colorectal neoplasms
+circ-nsd2,colorectal neoplasms
+circ-prmt5,colorectal neoplasms
+circpvt1,colorectal neoplasms
+circrna_100290,colorectal neoplasms
+circ-znf609,colorectal neoplasms
+hsa_circ_0000218,colorectal neoplasms
+hsa_circ_0000523,colorectal neoplasms
+hsa_circ_0001900,colorectal neoplasms
+hsa_circ_0002211,colorectal neoplasms
+hsa_circ_0005100,colorectal neoplasms
+hsa_circ_0006990,colorectal neoplasms
+hsa_circ_0007534,colorectal neoplasms
+hsa_circ_0009361,colorectal neoplasms
+hsa_circ_0026344,colorectal neoplasms
+hsa_circ_0053277,colorectal neoplasms
+hsa_circ_0067835,colorectal neoplasms
+hsa_circ_0071589,colorectal neoplasms
+hsa_circ_0072088,colorectal neoplasms
+hsa_circ_0079993,colorectal neoplasms
+hsa_circ_0136666,colorectal neoplasms
+hsa_circ_0137008,colorectal neoplasms
+hsa_circ_101555,colorectal neoplasms
+circ-itch,colorectal neoplasms
+hsa_circ_001569,colorectal neoplasms
+hsa_circ_0020397,colorectal neoplasms
+hsa_circrna_086376,colorectal neoplasms
+hsa_circrna_102761,colorectal neoplasms
+hsa_circrna_105055,colorectal neoplasms
+hsa_circ_0070934,cutaneous squamous cell carcinoma
+hsa_circrna_100833,cutaneous squamous cell carcinoma
+hsa_circrna_100834,cutaneous squamous cell carcinoma
+hsa_circ_0127621,"lymphoma, large b-cell, diffuse"
+circtnfrsf21,endometrial neoplasms
+hsa_circ_0002577,endometrial neoplasms
+hsa_circ_0039569,endometrial neoplasms
+hsa_circ_0061140,endometrial neoplasms
+circ-abcb10,"carcinoma, ovarian epithelial"
+circ-itch,"carcinoma, ovarian epithelial"
+circ-pgam1,"carcinoma, ovarian epithelial"
+circpvt1,esophageal neoplasms
+circ-rad23b,esophageal neoplasms
+circrna_001275,esophageal neoplasms
+hsa_circ_0006168,esophageal neoplasms
+hsa_circ_0000554,esophageal neoplasms
+cdr1as,esophageal squamous cell carcinoma
+circ-prkci,esophageal squamous cell carcinoma
+circubap2,esophageal squamous cell carcinoma
+circ-vrk1,esophageal squamous cell carcinoma
+hsa_circ_0000654,esophageal squamous cell carcinoma
+hsa_circ_0004771,esophageal squamous cell carcinoma
+hsa_circ_0006168,esophageal squamous cell carcinoma
+hsa_circ_0006948,esophageal squamous cell carcinoma
+hsa_circ_0000337,esophageal squamous cell carcinoma
+circhipk3,gallbladder neoplasms
+hsa_circ_0008234,gallbladder neoplasms
+cdr1as,stomach neoplasms
+circ_specc1,stomach neoplasms
+circatxn7,stomach neoplasms
+circ-cep85l,stomach neoplasms
+circ-dcaf6,stomach neoplasms
+circ-eif4g3,stomach neoplasms
+circ-erbb2,stomach neoplasms
+circhectd1,stomach neoplasms
+circhiat1,stomach neoplasms
+circhipk3,stomach neoplasms
+circmllt10,stomach neoplasms
+circmto1,stomach neoplasms
+circ-notch1,stomach neoplasms
+circnrip1,stomach neoplasms
+circpdss1,stomach neoplasms
+circ-prmt5,stomach neoplasms
+circpsmc3,stomach neoplasms
+circpvt1,stomach neoplasms
+circ-rangap1,stomach neoplasms
+circrbms3,stomach neoplasms
+circrhobtb3,stomach neoplasms
+circrna_001569,stomach neoplasms
+circrna_0047905,stomach neoplasms
+circrna_104433,stomach neoplasms
+circ-sfmbt2,stomach neoplasms
+circyap1,stomach neoplasms
+circzfr,stomach neoplasms
+cirs-133,stomach neoplasms
+hsa_circ_0000199,stomach neoplasms
+hsa_circ_0000267,stomach neoplasms
+hsa_circ_0000291,stomach neoplasms
+hsa_circ_0000376,stomach neoplasms
+hsa_circ_0000467,stomach neoplasms
+hsa_circ_0000592,stomach neoplasms
+hsa_circ_0000673,stomach neoplasms
+hsa_circ_0000993,stomach neoplasms
+hsa_circ_0001368,stomach neoplasms
+hsa_circ_0001461,stomach neoplasms
+hsa_circ_0001546,stomach neoplasms
+hsa_circ_0001658,stomach neoplasms
+hsa_circ_0001725,stomach neoplasms
+hsa_circ_0001772,stomach neoplasms
+hsa_circ_0001897,stomach neoplasms
+hsa_circ_0003855,stomach neoplasms
+hsa_circ_0004928,stomach neoplasms
+hsa_circ_0006282,stomach neoplasms
+hsa_circ_0006848,stomach neoplasms
+hsa_circ_0008106,stomach neoplasms
+hsa_circ_0008365,stomach neoplasms
+hsa_circ_0008549,stomach neoplasms
+hsa_circ_0014130,stomach neoplasms
+hsa_circ_0027599,stomach neoplasms
+hsa_circ_0032627,stomach neoplasms
+hsa_circ_0056618,stomach neoplasms
+hsa_circ_0058092,stomach neoplasms
+hsa_circ_0060456,stomach neoplasms
+hsa_circ_006100,stomach neoplasms
+hsa_circ_0067997,stomach neoplasms
+hsa_circ_0081143,stomach neoplasms
+hsa_circ_0092303,stomach neoplasms
+hsa_circ_0092306,stomach neoplasms
+hsa_circ_0001946,stomach neoplasms
+circnf1,stomach neoplasms
+circ-foxo3,glioblastoma
+circmto1,glioblastoma
+circnt5e,glioblastoma
+circ-pitx1,glioblastoma
+hsa_circ_0001801,glioblastoma
+hsa_circ_0001946,glioblastoma
+hsa_circ_0043949,glioblastoma
+hsa_circ_0074027,glioblastoma
+circmmp9,glioblastoma
+circ-cdc45,glioma
+circ-dicer1,glioma
+circ-ezh2,glioma
+circhipk3,glioma
+circ-itch,glioma
+circkif4a,glioma
+circman2b2,glioma
+circnfix,glioma
+circ-pitx1,glioma
+circ-postn,glioma
+circptn,glioma
+circ-ptprz1,glioma
+circscaf11,glioma
+circsmo742,glioma
+circ-ttbk2,glioma
+circ-znf264,glioma
+hsa_circ_0000177,glioma
+hsa_circ_0001801,glioma
+hsa_circ_0002142,glioma
+hsa_circ_0005198,glioma
+hsa_circ_0007534,glioma
+hsa_circ_0008225,glioma
+hsa_circ_0012129,glioma
+hsa_circ_0014359,glioma
+hsa_circ_0015758,glioma
+hsa_circ_002136,glioma
+hsa_circ_0034642,glioma
+hsa_circ_0037251,glioma
+hsa_circ_0037655,glioma
+hsa_circ_0046701,glioma
+hsa_circ_0047688,glioma
+hsa_circ_0061868,glioma
+hsa_circ_0073237,glioma
+hsa_circ_0074026,glioma
+hsa_circ_0074362,glioma
+hsa_circ_0079593,glioma
+hsa_circ_0082374,glioma
+hsa_circ_0088732,glioma
+hsa_circ_0000594,glioma
+circshkbp1,glioma
+hsa_circ_0076248,glioma
+circrna_036186,squamous cell carcinoma of head and neck
+hsa_circ_0000495,squamous cell carcinoma of head and neck
+circrna_100284,liver neoplasms
+hsa_circ_0015756,hepatoblastoma
+hsa_circ_0072391,hepatoblastoma
+circ-abcb10,"carcinoma, hepatocellular"
+circabcc2,"carcinoma, hepatocellular"
+circadamts13,"carcinoma, hepatocellular"
+circadamts14,"carcinoma, hepatocellular"
+circasap1,"carcinoma, hepatocellular"
+circc3p1,"carcinoma, hepatocellular"
+circ-cdyl,"carcinoma, hepatocellular"
+circdync1h1,"carcinoma, hepatocellular"
+circfblim1,"carcinoma, hepatocellular"
+circ-foxp1,"carcinoma, hepatocellular"
+circhiat1,"carcinoma, hepatocellular"
+hsa_circ_0000284,"carcinoma, hepatocellular"
+circ-homer1,"carcinoma, hepatocellular"
+circlarp4,"carcinoma, hepatocellular"
+circman2b2,"carcinoma, hepatocellular"
+circmat2b,"carcinoma, hepatocellular"
+circmylk,"carcinoma, hepatocellular"
+circpcnx,"carcinoma, hepatocellular"
+circ-prkci,"carcinoma, hepatocellular"
+circ-prmt5,"carcinoma, hepatocellular"
+circptgr1,"carcinoma, hepatocellular"
+circrbm23,"carcinoma, hepatocellular"
+circrna_101368,"carcinoma, hepatocellular"
+circrna_101505,"carcinoma, hepatocellular"
+circrna_104718,"carcinoma, hepatocellular"
+circrna_5692,"carcinoma, hepatocellular"
+circslc3a2,"carcinoma, hepatocellular"
+circ-smad2,"carcinoma, hepatocellular"
+circ-tcf4.85,"carcinoma, hepatocellular"
+circtrim33-12,"carcinoma, hepatocellular"
+circ-zeb1.33,"carcinoma, hepatocellular"
+circzfr,"carcinoma, hepatocellular"
+hsa_circ_0000092,"carcinoma, hepatocellular"
+hsa_circ_0000204,"carcinoma, hepatocellular"
+hsa_circ_0000567,"carcinoma, hepatocellular"
+hsa_circ_0000673,"carcinoma, hepatocellular"
+hsa_circ_0001178,"carcinoma, hepatocellular"
+hsa_circ_0001649,"carcinoma, hepatocellular"
+hsa_circ_0001955,"carcinoma, hepatocellular"
+hsa_circ_0003258,"carcinoma, hepatocellular"
+hsa_circ_0005075,"carcinoma, hepatocellular"
+hsa_circ_0008450,"carcinoma, hepatocellular"
+hsa_circ_0009910,"carcinoma, hepatocellular"
+hsa_circ_001569,"carcinoma, hepatocellular"
+hsa_circ_0015756,"carcinoma, hepatocellular"
+hsa_circ_0016788,"carcinoma, hepatocellular"
+hsa_circ_0021093,"carcinoma, hepatocellular"
+hsa_circ_0039411,"carcinoma, hepatocellular"
+hsa_circ_0046600,"carcinoma, hepatocellular"
+hsa_circ_0051443,"carcinoma, hepatocellular"
+hsa_circ_0056836,"carcinoma, hepatocellular"
+hsa_circ_0067934,"carcinoma, hepatocellular"
+hsa_circ_0070269,"carcinoma, hepatocellular"
+hsa_circ_0078710,"carcinoma, hepatocellular"
+hsa_circ_0091570,"carcinoma, hepatocellular"
+hsa_circ_0091581,"carcinoma, hepatocellular"
+hsa_circ_0101432,"carcinoma, hepatocellular"
+hsa_circ_100338,"carcinoma, hepatocellular"
+hsa_circ_101280,"carcinoma, hepatocellular"
+hsa_circ_103809,"carcinoma, hepatocellular"
+hsa_circ_104075,"carcinoma, hepatocellular"
+hsa_circrna_101764,"carcinoma, hepatocellular"
+hsa_circrna_0007874,"carcinoma, hepatocellular"
+hsa_circ_0001946,"carcinoma, hepatocellular"
+hsa_circ_0005986,"carcinoma, hepatocellular"
+hsa_circ_000839,"carcinoma, hepatocellular"
+hsa_circ_0103809,"carcinoma, hepatocellular"
+hsa_circ_0005027,hypopharyngeal neoplasms
+hsa_circ_0008287,hypopharyngeal neoplasms
+hsa_circrna_001654,infantile hemangioma
+hsa_circrna_100933,infantile hemangioma
+hsa_circrna_102116,infantile hemangioma
+hsa_circrna_104310,infantile hemangioma
+circ2174,cholangiocarcinoma
+circhipk3,"carcinoma, renal cell"
+hsa_circ_0057481,laryngeal neoplasms
+cdr1as,squamous cell carcinoma of head and neck
+circrna_100290,squamous cell carcinoma of head and neck
+hsa_circ_0023303,squamous cell carcinoma of head and neck
+hsa_circ_0042666,squamous cell carcinoma of head and neck
+hsa_circ_0044520,squamous cell carcinoma of head and neck
+hsa_circ_0044529,squamous cell carcinoma of head and neck
+hsa_circ_0059354,squamous cell carcinoma of head and neck
+hsa_circ_0092012,squamous cell carcinoma of head and neck
+circadamts13,liver neoplasms
+circrna_0072309,liver neoplasms
+hsa_circ_0091579,liver neoplasms
+hsa_circ_100395,liver neoplasms
+hsa_circ_0003028,liver neoplasms
+circhipk3,liver neoplasms
+hsa_circ_0007915,liver neoplasms
+hsa_circ_0071410,liver neoplasms
+circabcc4,adenocarcinoma of lung
+circ-eno1,adenocarcinoma of lung
+circ-prkci,adenocarcinoma of lung
+circpum1,adenocarcinoma of lung
+circpvt1,adenocarcinoma of lung
+circrnf13,adenocarcinoma of lung
+circ-sox4,adenocarcinoma of lung
+cmras,adenocarcinoma of lung
+hsa_circ_0000792,adenocarcinoma of lung
+hsa_circ_0001946,adenocarcinoma of lung
+hsa_circ_0002346,adenocarcinoma of lung
+hsa_circ_0003998,adenocarcinoma of lung
+hsa_circ_0006427,adenocarcinoma of lung
+hsa_circ_0012673,adenocarcinoma of lung
+hsa_circ_0014130,adenocarcinoma of lung
+hsa_circ_0020732,adenocarcinoma of lung
+hsa_circ_0025036,adenocarcinoma of lung
+hsa_circ_0067934,adenocarcinoma of lung
+hsa_circ_0013958,adenocarcinoma of lung
+hsa_circ_0000729,adenocarcinoma of lung
+circ-abcb10,lung neoplasms
+circ-akt3,lung neoplasms
+circ-banp,lung neoplasms
+circgfra1,lung neoplasms
+circhipk3,lung neoplasms
+circman2b2,lung neoplasms
+circpvt1,lung neoplasms
+hsa_circ_0006916,lung neoplasms
+hsa_circ_0007059,lung neoplasms
+hsa_circ_0012673,lung neoplasms
+hsa_circ_0046264,lung neoplasms
+hsa_circ_100395,lung neoplasms
+hsa_circrna_100833,lung neoplasms
+hsa_circrna_103809,lung neoplasms
+hsa_circ_0000284,lung neoplasms
+hsa_circrna_103595,lung neoplasms
+hsa_circ_0001821,lung neoplasms
+circubap2,lung neoplasms
+circ-itch,lung neoplasms
+circ-pax2,lung squamous cell carcinoma
+circtp63,lung squamous cell carcinoma
+hsa_circ_0000408,lung squamous cell carcinoma
+circrna_0084043,melanoma
+hsa_circ_0025039,melanoma
+circ-foxm1,melanoma
+circmyc,melanoma
+hsa_circ_0017247,melanoma
+hsa_circ_0084043,melanoma
+hsa_circ_0012342,"carcinoma, mucoepidermoid"
+hsa_circ_0000190,multiple myeloma
+cdr1as,nasopharyngeal carcinoma
+circhipk3,nasopharyngeal carcinoma
+circrna_000543,nasopharyngeal carcinoma
+circrpms1,nasopharyngeal carcinoma
+hsa_circ_0008450,nasopharyngeal carcinoma
+cdr1as,"carcinoma, non-small-cell lung"
+circ-acaca,"carcinoma, non-small-cell lung"
+circagfg1,"carcinoma, non-small-cell lung"
+circbirc6,"carcinoma, non-small-cell lung"
+circfarsa,"carcinoma, non-small-cell lung"
+circfgfr1,"carcinoma, non-small-cell lung"
+circfgfr3,"carcinoma, non-small-cell lung"
+circ-foxm1,"carcinoma, non-small-cell lung"
+circ-foxo3,"carcinoma, non-small-cell lung"
+circmtdh.4,"carcinoma, non-small-cell lung"
+circp4hb,"carcinoma, non-small-cell lung"
+circ-prmt5,"carcinoma, non-small-cell lung"
+circptpra,"carcinoma, non-small-cell lung"
+circpvt1,"carcinoma, non-small-cell lung"
+circ-rad23b,"carcinoma, non-small-cell lung"
+circrna_100146,"carcinoma, non-small-cell lung"
+circsmarca5,"carcinoma, non-small-cell lung"
+circvangl1,"carcinoma, non-small-cell lung"
+hsa_circ_0000003,"carcinoma, non-small-cell lung"
+hsa_circ_0000735,"carcinoma, non-small-cell lung"
+hsa_circ_0001649,"carcinoma, non-small-cell lung"
+hsa_circ_0001727,"carcinoma, non-small-cell lung"
+hsa_circ_0003645,"carcinoma, non-small-cell lung"
+hsa_circ_0003998,"carcinoma, non-small-cell lung"
+hsa_circ_0004015,"carcinoma, non-small-cell lung"
+hsa_circ_0007385,"carcinoma, non-small-cell lung"
+hsa_circ_0008305,"carcinoma, non-small-cell lung"
+hsa_circ_0008717,"carcinoma, non-small-cell lung"
+hsa_circ_0011780,"carcinoma, non-small-cell lung"
+hsa_circ_0012384,"carcinoma, non-small-cell lung"
+hsa_circ_0014130,"carcinoma, non-small-cell lung"
+hsa_circ_0016760,"carcinoma, non-small-cell lung"
+hsa_circ_0020123,"carcinoma, non-small-cell lung"
+hsa_circ_0026134,"carcinoma, non-small-cell lung"
+hsa_circ_0043278,"carcinoma, non-small-cell lung"
+hsa_circ_0062389,"carcinoma, non-small-cell lung"
+hsa_circ_0072083,"carcinoma, non-small-cell lung"
+hsa_circ_0072309,"carcinoma, non-small-cell lung"
+hsa_circ_0074027,"carcinoma, non-small-cell lung"
+hsa_circ_0076305,"carcinoma, non-small-cell lung"
+hsa_circ_0078767,"carcinoma, non-small-cell lung"
+hsa_circ_0087862,"carcinoma, non-small-cell lung"
+hsa_circ_0043256,"carcinoma, non-small-cell lung"
+hsa_circ_0000284,"carcinoma, non-small-cell lung"
+circatrnl1,squamous cell carcinoma of head and neck
+circdock1,squamous cell carcinoma of head and neck
+circhipk3,squamous cell carcinoma of head and neck
+circ-pkd2,squamous cell carcinoma of head and neck
+circpvt1,squamous cell carcinoma of head and neck
+circ-scarb1,squamous cell carcinoma of head and neck
+hsa_circ_0000140,squamous cell carcinoma of head and neck
+hsa_circ_0001971,squamous cell carcinoma of head and neck
+hsa_circ_0002185,squamous cell carcinoma of head and neck
+hsa_circ_0008309,squamous cell carcinoma of head and neck
+hsa_circ_0072387,squamous cell carcinoma of head and neck
+hsa_circ_009755,squamous cell carcinoma of head and neck
+hsa_circrna_100533,squamous cell carcinoma of head and neck
+cdr1as,osteosarcoma
+circ_ankib1,osteosarcoma
+circ_arf3,osteosarcoma
+circ_orc2,osteosarcoma
+circepsti1,osteosarcoma
+circfat1,osteosarcoma
+circ-itch,osteosarcoma
+circlarp4,osteosarcoma
+circmmp9,osteosarcoma
+circmyo10,osteosarcoma
+circnasp,osteosarcoma
+circpvt1,osteosarcoma
+circrna_100876,osteosarcoma
+circtcf25,osteosarcoma
+hsa_circ_0000190,osteosarcoma
+hsa_circ_0001105,osteosarcoma
+hsa_circ_0001564,osteosarcoma
+hsa_circ_0001658,osteosarcoma
+hsa_circ_0001721,osteosarcoma
+hsa_circ_0001785,osteosarcoma
+hsa_circ_0002052,osteosarcoma
+hsa_circ_0004846,osteosarcoma
+hsa_circ_0008792,osteosarcoma
+hsa_circ_0009910,osteosarcoma
+hsa_circ_0043278,osteosarcoma
+hsa_circ_0051079,osteosarcoma
+hsa_circ_0060428,osteosarcoma
+hsa_circ_0102049,osteosarcoma
+hsa_circ_0092509,osteosarcoma
+hsa_circ_0056288,osteosarcoma
+circ-cspp1,ovarian neoplasms
+circepsti1,ovarian neoplasms
+circ-fam53b,ovarian neoplasms
+circgfra1,ovarian neoplasms
+circ-itch,ovarian neoplasms
+circlarp4,ovarian neoplasms
+circplekhm3,ovarian neoplasms
+circpum1,ovarian neoplasms
+circrhoc,ovarian neoplasms
+circwhsc1,ovarian neoplasms
+hsa_circ_0004390,ovarian neoplasms
+hsa_circ_0007874,ovarian neoplasms
+hsa_circ_0051240,ovarian neoplasms
+hsa_circ_100395,ovarian neoplasms
+circ-adam9,pancreatic neoplasms
+circhipk3,pancreatic neoplasms
+circ-iars,pancreatic neoplasms
+circ-ldlrad3,pancreatic neoplasms
+circ-pde8a,pancreatic neoplasms
+circrhot1,pancreatic neoplasms
+hsa_circ_0000977,pancreatic neoplasms
+hsa_circ_0006215,pancreatic neoplasms
+hsa_circ_0099999,pancreatic neoplasms
+circccdc66,pancreatic neoplasms
+circ-ash2l,"carcinoma, pancreatic ductal"
+circfoxk2,"carcinoma, pancreatic ductal"
+hsa_circ_0007534,"carcinoma, pancreatic ductal"
+hsa_circ_001653,"carcinoma, pancreatic ductal"
+hsa_circ_0030235,"carcinoma, pancreatic ductal"
+hsa_circrna_0007334,"carcinoma, pancreatic ductal"
+hsa_circ_0000977,"carcinoma, pancreatic ductal"
+circbach2,"thyroid cancer, papillary"
+circ-foxm1,"thyroid cancer, papillary"
+circnup214,"thyroid cancer, papillary"
+circrapgef5,"thyroid cancer, papillary"
+circzfr,"thyroid cancer, papillary"
+hsa_circ_0004458,"thyroid cancer, papillary"
+hsa_circ_0005273,"thyroid cancer, papillary"
+hsa_circ_0025033,"thyroid cancer, papillary"
+hsa_circ_0015278,"thyroid cancer, papillary"
+circ-itch,"thyroid cancer, papillary"
+hsa_circrna_004662,"thyroid cancer, papillary"
+hsa_circrna_014213,"thyroid cancer, papillary"
+hsa_circrna_046843,"thyroid cancer, papillary"
+hsa_circrna_061346,"thyroid cancer, papillary"
+hsa_circrna_101408,"thyroid cancer, papillary"
+circ_katnal1,prostatic neoplasms
+circ_slc19a1,prostatic neoplasms
+circabcc4,prostatic neoplasms
+circamotl1l,prostatic neoplasms
+circgucy1a2,prostatic neoplasms
+circhipk3,prostatic neoplasms
+circ-itch,prostatic neoplasms
+circlmtk2,prostatic neoplasms
+circmto1,prostatic neoplasms
+circslc7a6,prostatic neoplasms
+circzfp57,prostatic neoplasms
+circ-znf609,prostatic neoplasms
+hsa_circ_0001206,prostatic neoplasms
+hsa_circ_0006404,prostatic neoplasms
+hsa_circ_0057558,prostatic neoplasms
+hsa_circ_0062019,prostatic neoplasms
+hsa_circ_0141940,prostatic neoplasms
+hsa_circrna_008068,prostatic neoplasms
+hsa_circrna_091420,prostatic neoplasms
+hsa_circrna_101981,prostatic neoplasms
+hsa_circrna_101996,prostatic neoplasms
+hsa_circrna_406557,prostatic neoplasms
+circmto1,rectal neoplasms
+circnrip1,"carcinoma, renal cell"
+circ-znf652,"carcinoma, renal cell"
+hsa_circ_0072309,"carcinoma, renal cell"
+circ-akt3,"carcinoma, renal cell"
+circmto1,"carcinoma, renal cell"
+circprrc2a,"carcinoma, renal cell"
+hsa_circ_000926,"carcinoma, renal cell"
+hsa_circ_0035483,"carcinoma, renal cell"
+hsa_circ_0093996,retinoblastoma
+hsa_circ_0059655,salivary adenoid cystic carcinoma
+circ-lamp1,precursor t-cell lymphoblastic leukemia-lymphoma
+circnek6,thyroid neoplasms
+hsa_circ_0011385,thyroid neoplasms
+hsa_circ_0058124,thyroid neoplasms
+hsa_circ_0060060,thyroid neoplasms
+hsa_circ_0067934,thyroid neoplasms
+hsa_circ_0001742,squamous cell carcinoma of head and neck
+hsa_circ_081069,squamous cell carcinoma of head and neck
+cdr1as,triple negative breast neoplasms
+circagfg1,triple negative breast neoplasms
+circ-itch,triple negative breast neoplasms
+circkif4a,triple negative breast neoplasms
+circplk1,triple negative breast neoplasms
+circsept9,triple negative breast neoplasms
+circtada2a-e6,triple negative breast neoplasms
+hsa_circrna_000479,triple negative breast neoplasms
+hsa_circ_0001451,triple negative breast neoplasms
+hsa_circ_0001846,triple negative breast neoplasms
+hsa_circ_0002453,triple negative breast neoplasms
+hsa_circ_0007294,triple negative breast neoplasms
+hsa_circ_0009362,triple negative breast neoplasms
+circepsti1,triple negative breast neoplasms
+circfam114a2,bladder urothelial carcinoma
+circ-prmt5,bladder urothelial carcinoma
+hsa_circ_0082081,coronary artery disease
+hsa-circrna-102685,crohn disease
+hsa_circrna_100918,t2dm with depression
+hsa_circ_0030045,tuberculosis
+hsa_circrna_004183,repeated implantation failure
+hsa_circ_0075001,"leukemia, myeloid, acute"
+hsa_circ_0057093,diabetic retinopathy
+hsa_circ_0000615,myocardial infarction
+hsa_circ_0018508,"diabetes mellitus, type 2"
+circptpn22,"lupus erythematosus, systemic"
+hsa_circ_0001275,"osteoporosis, postmenopausal"
+circrna_003524,"arthritis, rheumatoid"
+circrna7231,herpes simplex
+hsa_circ_0005836,active pulmonary tuberculosis
+hsa_circ_0005870,hypertension
+circsema4b,intervertebral disc degeneration
+hsa_circ_0000615,lupus nephritis
+cttn1,heart failure
+hsa_circ_0089810,primary great saphenous vein varicosities
+circ-satb2,coronary atherosclerotic heart disease
+hsa_circ_0056048,"depressive disorder, major"
+hsa_circ_0066922,diabetic retinopathy
+hsa_circ_0001187,"leukemia, myeloid, acute"
+hsa_circ_0021549,"lupus erythematosus, systemic"
+hsa_circ_0087215,diabetic retinopathy
+hsa_circrna_067209,moyamoya disease
+hsa_circ_0022342,chronic thromboembolic pulmonary hypertension
+circ_sdha,primary great saphenous vein varicosities
+hsa_circ_0092374,"lupus erythematosus, systemic"
+circtlk1,ischemic stroke
+hsa_circ_0070616,repeated implantation failure
+hsa_circ_0037909,essential hypertension
+circ_103546,crohn disease
+circibtk,"lupus erythematosus, systemic"
+hsa_circ_0004136,"leukemia, myeloid, acute"
+hsa_circ_0004277,leukemia
+hsa-circ-0000437,hypertension
+hsa_circ_0083964,"arthritis, rheumatoid"
+hsa-circrna5974-1,coronary artery disease
+hsa_circ_0028882,"osteoporosis, postmenopausal"
+hsa_circrna_001937,active tuberculosis
+hsa_circrna_015115,t2dm with depression
+circrna_0001073,acne vulgaris
+hsa_circ_0000517,multiple sclerosis
+cttn2,heart failure
+circankrd36,"diabetes mellitus, type 2"
+hsa_circ_0003519,active pulmonary tuberculosis
+hsa_circrna_101720,moyamoya disease
+circrna_09993,"tuberculosis, pulmonary"
+hsa_circ_0088452,active pulmonary tuberculosis
+hsa_circ_0006323,coronary artery disease
+hsa_circ_0005105,osteoarthritis
+hsa_circ_087631,"liver cirrhosis, biliary"
+hsa_circ_0070963,liver cirrhosis
+circrna_103047,"arthritis, rheumatoid"
+hsa_circ_0036877,pre-eclampsia
+hsa_circ_0072765,liver cirrhosis
+hsa_circ_0098964,coronary artery disease
+circrna_0005941,acne vulgaris
+hsa_circrna_100914,moyamoya disease
+hsa_circ_103783,leukoaraiosis
+hsa_circrna_101873,"arthritis, rheumatoid"
+hsa_circ_0035560,multiple sclerosis
+hsa_circrna_003251,t2dm with depression
+hsa_circrna11806-28,"diabetes mellitus, type 2"
+hsa_circ_102470,leukoaraiosis
+circ_stk17a,"epilepsy, temporal lobe"
+hsa_circrna_005086,active tuberculosis
+hsa_circ_0032683,"arthritis, rheumatoid"
+circular rna wdr77,cardiovascular diseases
+circrna.1030,"diabetes, gestational"
+hsa-circ-0008139,hypertension
+hsa_circ_0108308,multiple system atrophy
+circrna_13478,"tuberculosis, pulmonary"
+hsa_circ_0124644,coronary artery disease
+hsa_circ_0002113,"tuberculosis, pulmonary"
+hsa_circ_092516,"arthritis, rheumatoid"
+hsa_circ_0032891,multiple system atrophy
+hsa_circ_406329,"liver cirrhosis, biliary"
+hsa_circ_0106803,multiple sclerosis
+hsa_circ_0037911,essential hypertension
+hsa_circ_0002161,essential hypertension
+hsa_circ_0030055,diabetic retinopathy
+hsa_circrna_104854,repeated implantation failure
+hsa_circ_0068087,"diabetes mellitus, type 2"
+hsa_circ_0045714,osteoarthritis
+hsa_circ_0043497,tuberculosis
+cznf292,heart failure
+circusp45,glucocorticoid-induced osteonecrosis of femoral head
+hsa_circ_0054211,multiple system atrophy
+circ_ubqln1,"epilepsy, temporal lobe"
+hsa_circ_0123996,mucocutaneous lymph node syndrome
+hsa_circ_0000479,"lupus erythematosus, systemic"
+circ-prkci,hirschsprung disease
+hsa-circ-0040809,hypertension
+hsa_circ_0054345,irradiated hepatic stellate cell
+hsa_circ_0054633,"diabetes mellitus, type 2"
+hsa_circ_0023903,moyamoya disease
+hsa_circ_0050898,moyamoya disease
+hsa_circ_0000254,"leukemia, myeloid, acute"
+hsa_circ_0001866,"lupus erythematosus, systemic"
+hsa_circ_0038374,multiple system atrophy
+circrna_0046366,hepatocellular steatosis
+hsa_circ_0017446,"leukemia, myeloid, acute"
+hsa_circ_0046599,"lupus erythematosus, systemic"
+hsa_circ_0070963,irradiated hepatic stellate cell
+hsa_circ_0001859,"arthritis, rheumatoid"
+hsa_circ_0056731,multiple sclerosis
+circ_cct4,"epilepsy, temporal lobe"
+hsa_circrna_103410,diabetic retinopathy
+hsa_circ_0000518,multiple sclerosis
+hsa_circ_0063179,"tuberculosis, pulmonary"
+hsa_circ_002082,fatty liver
+hsa_circ_0049657,"leukemia, myeloid, acute"
+hsa_circ_0054345,liver cirrhosis
+circrna_26852,metabolism-related diseases
+hsa_circ_0041796,diabetic retinopathy
+hsa_circ_0072668,facet joint osteoarthritis
+has_circ_0049220,"lupus erythematosus, systemic"
+circrna-0004904,pre-eclampsia
+hsa_circ_0044235,"arthritis, rheumatoid"
+hsa_circ_0008797,"tuberculosis, pulmonary"
+hsa_circ_0100783,immunosenescence
+hsa_circ_0005127,facet joint osteoarthritis
+circ kmt2e,diabetic cataract
+hsa_circ_0067209,moyamoya disease
+hsa-circrna11783-2,coronary artery disease
+hsa_circ_0026388,diabetic retinopathy
+circrna_104670,intervertebral disc degeneration
+hsa_circ_0003171,primary great saphenous vein varicosities
+hsa_circrna_044353,repeated implantation failure
+hsa_circ_402458,"liver cirrhosis, biliary"
+hsa_circrna_103343,moyamoya disease
+circrna_09585,"tuberculosis, pulmonary"
+hsa_circ_004183,fatty liver
+hsa_circrna_103387,osteoarthritis
+cttn5,heart failure
+hsa_circ_0005402,multiple sclerosis
+hsa_circ_0041946,intervertebral disc degeneration
+hsa_circ_0001204,tuberculosis
+circrna_0084927,acne vulgaris
+hsa_circ_0008078,"leukemia, myeloid, acute"
+hsa_circ_0032970,coronary artery disease
+circdlgap4,ischemic stroke
+hsa_circ_014724,fatty liver
+hsa_circ_0071410,liver cirrhosis
+hsa_circ_0052012,"arthritis, rheumatoid"
+hsa_circrna_0054633,"diabetes, gestational"
+hsa_circ_0005540,multiple system atrophy
+hsa_circ_0081108,diabetic retinopathy
+hsa_circ_0126991,essential hypertension
+hsa_circ_0005519,asthma
+circsmarca5,cardiovascular diseases
+hsa_circ_0053743,facet joint osteoarthritis
+hsa_circ_052372,"liver cirrhosis, biliary"
+hsa_circ_101396,leukoaraiosis
+hsa_circ_0072410,diabetic retinopathy
+cir-ccdc66,hirschsprung disease
+circ_004662,crohn disease
+circr-284,carotid plaque rupture
+hsa_circ_082319,"liver cirrhosis, biliary"
+hsa_circ_0023115,endometriosis
+hsa_circ_0006801,"osteoporosis, postmenopausal"
+hsa_circrna_406918,diabetic retinopathy
+hsa_circ_0008615,"lupus erythematosus, systemic"
+hsa_circ_0034398,"lupus erythematosus, systemic"
+circrna_atp9b,osteoarthritis
+circ_vps37c,"epilepsy, temporal lobe"
+hsa_circ_0082824,coronary artery disease
+hsa_circ_0002569,moyamoya disease
+cdkn2b-as1,inflammatory bowel diseases
+hsa_circ_0087206,diabetic retinopathy
+hsa_circrna_104871,"arthritis, rheumatoid"
+hsa_circrna_009024,active tuberculosis
+circ_102610,crohn disease
+hsa_circ_0003146,"lupus erythematosus, systemic"
+circrna-0044073,atherosclerosis
+hsa_circ_0080210,intervertebral disc degeneration
+hsa_circ_0000681,"tuberculosis, pulmonary"
+hsa-circrna11783-2,"diabetes mellitus, type 2"
+hsa_circrna_104964,active tuberculosis
+circrna_000203,cardiac fibrosis
+hsa_circrna11806-28,coronary artery disease
+circ_efcab2,"epilepsy, temporal lobe"
+hsa_circrna_101975,osteoarthritis
+hsa_circrna_100192,diabetic retinopathy
+hsa_circ6510-1,coronary artery disease
+hsa_circ_0006404,myocardial senescence
+circ_usp9y,"epilepsy, temporal lobe"
+hsa_circrna_101319,"arthritis, rheumatoid"
+hsa_circ_0063781,facet joint osteoarthritis
+hsa_circ_0087537,facet joint osteoarthritis
+hsa_circ_0029067,facet joint osteoarthritis
+circ_092520,crohn disease
+hsa_circ_0000615,hirschsprung disease
+hsa_circ_0019069,diabetic retinopathy
+hsa_circrna_050898,moyamoya disease
+hsa_circ_0023956,active pulmonary tuberculosis
+hsa_circ_0078768,active pulmonary tuberculosis
+circrna_11058,rheumatic heart disease
+hsa_circ_0005218,pre-eclampsia
+circrna_11017,rheumatic heart disease
+circrna_0018168,acne vulgaris
+hsa_circ_0000414,"tuberculosis, pulmonary"
+circrunx2,osteoporosis
+hsa_circrna_091692,active tuberculosis
+hsa_circ_0026372,diabetic retinopathy
+hsa_circ_103047,"arthritis, rheumatoid"
+hsa_circ_0005442,pre-eclampsia
+hsa_circ_0014243,hypertension
+hsa_circ_0001947,"leukemia, myeloid, acute"
+hsa_circrna_102101,active tuberculosis
+hsa_circ_0068942,coronary artery disease
+hsa_circ_0051172,coronary artery disease
+circfoxo3,cardiac senescence
+cznf609,lymphangiogenesis
+circzc3h4,silicosis
+hsa_circrna_102296,active tuberculosis
+hsa_circrna_000598,osteoarthritis
+hsa_circ_003524,"arthritis, rheumatoid"
+hsa-circ-0005870,hypertension
+hsa_circ_0000175,lupus nephritis
+circ_103124,crohn disease
+hsa_circ_004121,fatty liver
+hsa_circ_0089378,coronary artery disease
+circznf609,vascular endothelial dysfunction
+hsa_circ_0012919,"lupus erythematosus, systemic"
+circrna.2837,sciatica
+hsa_circrna_404686,repeated implantation failure
+circrna7752,herpes simplex
+hsa_circ_0001410,"depressive disorder, major"
+circrna-chr19,"hemorrhagic fever, ebola"
+hsa_circrna_104296,active tuberculosis
+hsa_circ_0064996,"arthritis, rheumatoid"
+hsa_circ_000361,"liver cirrhosis, biliary"
+hsa-circ-000595,aortic aneurysm
+hsa_circrna_404457,diabetic retinopathy
+hsa_circ_0081162,diabetic retinopathy
+hsa_circ_0068489,diabetic retinopathy
+hsa_circrna_104387,diabetic retinopathy
+circhla-c,lupus nephritis
+hsa_circ_0040705,"lupus erythematosus, systemic"
+hsa_circ_0000615,diabetic retinopathy
+hsa_circ_0083357,coronary artery disease
+hsa_circ_0000378,primary great saphenous vein varicosities
+czranb1,retinal neurodegeneration
+hsa_circ_0002908,"tuberculosis, pulmonary"
+hsa_circ_0006935,repeated implantation failure
+hsa_circ6510-1,"diabetes mellitus, type 2"
+hsa_circ_0007788,"osteoporosis, postmenopausal"
+hsa_circ_0032131,osteoarthritis
+circrna.20159,"diabetes, gestational"
+circ_1639,"liver diseases, alcoholic"
+hsa_circrna_029965,active tuberculosis
+hsa_circ_007850,fatty liver
+hsa_circrna_100782,pre-eclampsia
+hsa_circ_0005267,primary great saphenous vein varicosities
+hsa_circ_0062557,endometriosis
+hsa_circ_0005620,"depressive disorder, major"
+circ_101222,pre-eclampsia
+hsa_circ_0006766,"osteoporosis, postmenopausal"
+hsa_circ_0054537,coronary artery disease
+hsa_circ_0058058,"leukemia, myeloid, acute"
+hsa_circrna_103503,"arthritis, rheumatoid"
+circrna_15698,diabetic nephropathies
+hsa_circ_0005015,diabetic retinopathy
+hsa_circ_0001946,alzheimer disease
+hsa_circ_0024892,multiple sclerosis
+hsa_circ_0035381,"leukemia, myeloid, acute"
+circ_0043144,"vitreoretinopathy, proliferative"
+circrna_11109,rheumatic heart disease
+circslc8a1,cardiovascular diseases
+hsa_circrna_005019,t2dm with depression
+hsa_circ_0004277,"leukemia, myeloid, acute"
+hsa_circ_0072765,irradiated hepatic stellate cell
+hsa_circ_0002362,"tuberculosis, pulmonary"
+circrna_0086376,acne vulgaris
+circrna6783,herpes simplex
+hsa_circ_102485,"liver cirrhosis, biliary"
+circ_aff2,hematopoiesis
+hsa_circ_0001417,tuberculosis
+hsa_circ_407176,"liver cirrhosis, biliary"
+circ_stk24,"epilepsy, temporal lobe"
+hsa_circ_0026143,endometriosis
+circrna.22054,"diabetes, gestational"
+hsa_circ_102533,leukoaraiosis
+hsa_circ_0068087,diabetes mellitus
+hsa_circ_0000519,multiple sclerosis
+hsa_circ_0045272,"lupus erythematosus, systemic"
+hsa_circ_0003575,atherosclerosis
+hsa_circrna_092516,"arthritis, rheumatoid"
+hsa_circ_0001907,"depressive disorder, major"
+hsa_circ_101873,"arthritis, rheumatoid"
+hsa_circ_0001819,lupus nephritis
+cttn4,heart failure
+hsa_circ_0002062,chronic thromboembolic pulmonary hypertension
+hsa_circ_104871,"arthritis, rheumatoid"
+circ_0002198,endometriosis
+hsa_circ_0030569,tuberculosis
+circrna-0001855,pre-eclampsia
+circrna_092516,"arthritis, rheumatoid"
+hsa_circ_0006427,primary great saphenous vein varicosities
+hsa_circ_0009128,active pulmonary tuberculosis
+circrna_0016624,"osteoporosis, postmenopausal"
+circ_drosha,"epilepsy, temporal lobe"
+hsa_circrna_102034,"arthritis, rheumatoid"
+hsa_circ_0054633,diabetes mellitus
+hsa_circrna_100257,"arthritis, rheumatoid"
+circpvt1,precursor cell lymphoblastic leukemia-lymphoma
+hsa_circ_0002078,moyamoya disease
+hsa_circ_0057762,"lupus erythematosus, systemic"
+hsa_circ_0049224,"lupus erythematosus, systemic"
+hsa_circ_0013255,liver cirrhosis
+hsa_circ_0071896,facet joint osteoarthritis
+hsa_circrna_103047,"arthritis, rheumatoid"
+has-circrna_0046367,fatty liver
+hsa_circ_0013255,irradiated hepatic stellate cell
+hsa_circ_0061893,irradiated hepatic stellate cell
+hsa_circ_0008305,intervertebral disc degeneration
+circrna_104871,"arthritis, rheumatoid"
+hsa_circ_0061893,liver cirrhosis
+hsa_circ_0089310,"depressive disorder, major"
+hsa_circrna_100750,diabetic retinopathy
+hsa_circ_0003391,"osteoporosis, postmenopausal"
+hsa_circ_0023404,osteoarthritis
+hsa_circ_0057576,coronary artery disease
+hsa_circ_0008887,immunosenescence
+hsa_circ_0113854,coronary artery disease
+hsa_circ_0091702,intervertebral disc degeneration
+circrna_101873,"arthritis, rheumatoid"
+circ_0004712,endometriosis
+hsa_circrna_063981,diabetic retinopathy
+hsa_circ_0001400,multiple sclerosis
+hsa_circ_000367,fatty liver
+hsa_circ_0071410,irradiated hepatic stellate cell
+hsa_circ_0029601,pre-eclampsia
+circrna-0067835,"epilepsy, temporal lobe"
+hsa_circrna_14623,"tuberculosis, pulmonary"
+hsa_circ_0004712,"arthritis, rheumatoid"

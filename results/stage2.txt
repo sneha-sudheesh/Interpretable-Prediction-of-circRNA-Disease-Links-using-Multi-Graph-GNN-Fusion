@@ -1,0 +1,162 @@
+fusion
+seed = 42
+lr = 0.001
+concat
+Mean AUC: 0.8150995903012188 Mean AUPR: 0.7697634069425955
+
+residual encoder
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.813497  0.817257
+1     1  0.830696  0.771621
+2     2  0.797173  0.758959
+3     3  0.813355  0.789644
+4     4  0.782563  0.770351
+
+Mean AUC: 0.8074570331624107
+Mean AUPR: 0.7815664958262944
+
+residual encoder + better fusion_model.py
+Your concat predictor currently:
+256 → 128 → 1
+That is too shallow for 256-dimensional fused signal.
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.821382  0.817085
+1     1  0.803229  0.811417
+2     2  0.796710  0.790814
+3     3  0.817607  0.815444
+4     4  0.790371  0.777597
+
+Mean AUC: 0.805859465587879
+Mean AUPR: 0.8024713375675278
+
+scheduler
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.814373  0.801719
+1     1  0.803229  0.811417
+2     2  0.788309  0.768375
+3     3  0.817066  0.810421
+4     4  0.776225  0.761892
+
+Mean AUC: 0.7998402432425469
+Mean AUPR: 0.7907648181308125
+
+
+weighted fusion
+Mean AUC: 0.8017779381071402 Mean AUPR: 0.799304386147678
+
+residual encoder
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.817130  0.819887
+1     1  0.819617  0.817798
+2     2  0.799067  0.782041
+3     3  0.819617  0.833456
+4     4  0.775349  0.768508
+
+Mean AUC: 0.8061557886057358
+Mean AUPR: 0.8043378715170482
+
+residual encoder + better fusion_weighted.py
+Right now weighted fusion uses raw alpha/beta.
+That means alpha can drift outside biological meaning.
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.818058  0.840641
+1     1  0.824925  0.830027
+2     2  0.788271  0.790665
+3     3  0.820557  0.831773
+4     4  0.776598  0.780504
+
+Mean AUC: 0.8056816717771651
+Mean AUPR: 0.8147220370298266
+
+scheduler
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.812492  0.827825
+1     1  0.804981  0.815224
+2     2  0.788271  0.790665
+3     3  0.803254  0.812544
+4     4  0.776598  0.780504
+
+Mean AUC: 0.7971192249220542
+Mean AUPR: 0.805352276300462
+
+
+lr = 0.0005
+concat
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.817053  0.796171
+1     1  0.817774  0.798293
+2     2  0.791530  0.773640
+3     3  0.817761  0.810924
+4     4  0.778853  0.762784
+
+Mean AUC: 0.8045942951377258
+Mean AUPR: 0.7883625398093306
+
+weighted
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.813471  0.828205
+1     1  0.811603  0.811268
+2     2  0.786209  0.789283
+3     3  0.804697  0.812550
+4     4  0.778776  0.772970
+
+Mean AUC: 0.7989512741889768
+Mean AUPR: 0.8028552729227434
+
+lr = 0.002
+concat
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.823649  0.813782
+1     1  0.808305  0.815277
+2     2  0.794674  0.791266
+3     3  0.814180  0.817636
+4     4  0.792819  0.780563
+
+Mean AUC: 0.8067252441443996
+Mean AUPR: 0.8037050236956851
+
+weighted
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.815558  0.841458
+1     1  0.829911  0.836839
+2     2  0.808511  0.799576
+3     3  0.829485  0.838693
+4     4  0.787330  0.783480
+
+Mean AUC: 0.8141590868097607
+Mean AUPR: 0.8200094273304119
+
+lr=0.002 and weight decay = 5e-5
+concat
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.824036  0.811590
+1     1  0.808769  0.815513
+2     2  0.795924  0.791271
+3     3  0.815107  0.817286
+4     4  0.791891  0.777345
+
+Mean AUC: 0.8071452498131876
+Mean AUPR: 0.8026011017472818
+
+weighted
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.815661  0.841450
+1     1  0.830439  0.836775
+2     2  0.809194  0.799177
+3     3  0.829150  0.838501
+4     4  0.787691  0.783155
+
+Mean AUC: 0.8144270658867789
+Mean AUPR: 0.819811427969109

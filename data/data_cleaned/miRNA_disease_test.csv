@@ -1,0 +1,457 @@
+miRNA,disease,label
+mir-1294,"carcinoma, pancreatic ductal",1
+mir-497-5p,liver neoplasms,0
+mir-503-5p,hepatoblastoma,1
+mir-382,"carcinoma, non-small-cell lung",1
+mir-326,"carcinoma, non-small-cell lung",1
+mir-1265,glioma,1
+mir-548g,diabetic retinopathy,0
+e2f1,retinoblastoma,0
+mir-577,"liver cirrhosis, biliary",0
+mir-93-3p,osteoarthritis,0
+mirna-218-5p,urinary bladder neoplasms,0
+mir-135-5p,"tuberculosis, pulmonary",0
+mir-498,"carcinoma, non-small-cell lung",1
+mir-203a-3p.1,t2dm with depression,0
+mir-1287,"carcinoma, non-small-cell lung",1
+mef2a,lung squamous cell carcinoma,0
+mir-526b-5p,myocardial infarction,0
+mir-181,urinary bladder neoplasms,0
+mir-885-5p,herpes simplex,0
+mir-34a,multiple sclerosis,0
+mir-625,t2dm with depression,0
+mir-454-3p,myocardial infarction,0
+mir-2113,"depressive disorder, major",0
+mir-335-5p,"carcinoma, hepatocellular",1
+crkl,"carcinoma, pancreatic ductal",0
+mir-200s,thyroid neoplasms,0
+mir-204-3p,squamous cell carcinoma of head and neck,1
+mir-1253,coronary artery disease,0
+mir-125a,osteoporosis,0
+mir-197-3p,triple negative breast neoplasms,1
+mir-6809,"leukemia, myelogenous, chronic, bcr-abl positive",0
+mir-1265,osteosarcoma,1
+mir-3607,intervertebral disc degeneration,0
+19b,diabetic retinopathy,0
+mir-149,inflammatory bowel diseases,0
+mir-186,primary great saphenous vein varicosities,0
+mir-518c-5p,osteoarthritis,0
+mir-600,mucocutaneous lymph node syndrome,0
+mir-653,ischemic stroke,0
+mir-495-3p,diabetic cataract,0
+mir-137-3p,ischemic stroke,0
+mir-197-3p,myocardial infarction,0
+mir-31,squamous cell carcinoma of head and neck,1
+sa-mir-940,liver neoplasms,0
+mir-767-5p,osteosarcoma,1
+mir-145-5p,prostatic neoplasms,1
+hif1a,rectal neoplasms,0
+mir-145,"thyroid cancer, papillary",1
+mir-363-3p,multiple system atrophy,0
+mir-133a-3p,nasopharyngeal carcinoma,0
+mir-139-3p,stomach neoplasms,1
+mir-96-3p,cholangiocarcinoma,0
+mir-136-5p,"thyroid cancer, papillary",1
+mir-23b-5p,hirschsprung disease,0
+mir-454-3p,diabetic retinopathy,0
+mir-518d-5p,"diabetes, gestational",0
+mir-17,triple negative breast neoplasms,1
+mir-29b-3p,diabetic nephropathies,0
+mir-892b,"carcinoma, pancreatic ductal",1
+mir-5095,ovarian neoplasms,0
+mir-665,squamous cell carcinoma of head and neck,1
+mir-3911,cardiac senescence,0
+mir-1253,"carcinoma, pancreatic ductal",1
+mir-26a-5p,salivary adenoid cystic carcinoma,0
+mir-197.,glioma,0
+mir-4726-5p,"liver diseases, alcoholic",0
+mir-449a,"carcinoma, hepatocellular",1
+mir-214,triple negative breast neoplasms,1
+mir-9,"carcinoma, renal cell",1
+mir-146b-3p,cardiovascular diseases,0
+mir-326-3p,urinary bladder neoplasms,0
+mir-767-3p,facet joint osteoarthritis,0
+mir-552-3p,hepatoblastoma,0
+mir-5572,hypertension,0
+mir-452-3p,"carcinoma, pancreatic ductal",0
+mir-329-3p,inflammatory bowel diseases,0
+mir-200c,"carcinoma, pancreatic ductal",0
+mir-636,cardiac senescence,0
+mir-485-5p,melanoma,0
+mir-9,active pulmonary tuberculosis,0
+mir-382,osteosarcoma,1
+mir-1231,"thyroid cancer, papillary",1
+akt3,"lymphoma, large b-cell, diffuse",0
+mir-503,lung neoplasms,1
+mir-1184,multiple sclerosis,0
+mir-149,glioma,1
+mir-1257,leukemia,0
+mir-93-5p,lung neoplasms,0
+mir-214,glioma,1
+mir-486-5p,colorectal neoplasms,0
+mir-93,uterine cervical neoplasms,1
+mir-500a-5p,"liver diseases, alcoholic",0
+mir-421,glioma,1
+mir-139-3p,colorectal neoplasms,1
+mir-146b-3p,prostatic neoplasms,0
+mir-203a-3p,lung squamous cell carcinoma,0
+mir-296-5p,stomach neoplasms,1
+mir-567,mucocutaneous lymph node syndrome,0
+mir-548,irradiated hepatic stellate cell,0
+mir-208a,"carcinoma, hepatocellular",0
+mir-449,glucocorticoid-induced osteonecrosis of femoral head,0
+mir-377,crohn disease,0
+mir-5196-3p,glioblastoma,0
+mir-181d,hematopoiesis,0
+mir-1257,hypertension,0
+mirna-21,herpes simplex,0
+mir-589,mucocutaneous lymph node syndrome,0
+mir-98,osteosarcoma,0
+mir-515-5p,stomach neoplasms,1
+mir-625-5p,leukemia,0
+mir-331-3p,"carcinoma, non-small-cell lung",1
+mir-200a,osteoarthritis,0
+mir-328-5p,osteoporosis,0
+mir-885-5p,"carcinoma, non-small-cell lung",0
+mir-4493,salivary adenoid cystic carcinoma,0
+mir-153-5p,liver neoplasms,0
+mir-6884,ischemic stroke,0
+mir-149-5p,esophageal squamous cell carcinoma,1
+mir-1200,stomach neoplasms,0
+mir-130a,pre-eclampsia,0
+mir-4316,retinal neurodegeneration,0
+mir-135b-3p,herpes simplex,0
+mir-7,squamous cell carcinoma of head and neck,1
+mir-181a-5p,"depressive disorder, major",0
+mir-132-3p,breast neoplasms,0
+mir-1228,lung neoplasms,1
+fak,hypertension,0
+mir-578,active tuberculosis,0
+mir-519d-3p,bladder urothelial carcinoma,0
+mir-198,"thyroid cancer, papillary",1
+mir-130a,ischemic stroke,0
+mir-107,stomach neoplasms,1
+hsa-mir-501-5p,breast neoplasms,0
+mir-181a-2-3p,carotid plaque rupture,0
+mir-1179,inflammatory bowel diseases,0
+mir-30b,salivary adenoid cystic carcinoma,0
+mir-124,"carcinoma, renal cell",1
+mir-431-5p,coronary artery disease,0
+mir-345-3p,fatty liver,0
+mir-329-5p,colorectal neoplasms,0
+mir-542-3p,"carcinoma, non-small-cell lung",0
+mir-492,"tuberculosis, pulmonary",0
+mir-29a-3p,prostatic neoplasms,1
+mir-218-5p,lupus nephritis,0
+mir-30c,liver neoplasms,0
+mir-490-5p,leukemia,0
+mir-1307,breast neoplasms,0
+mir-6809,prostatic neoplasms,0
+mir-520f,cholangiocarcinoma,0
+mir-381-3p,thyroid neoplasms,0
+mir-6783-3p,adenocarcinoma of lung,1
+mir-539-5p,silicosis,0
+mir-136-5p,"carcinoma, hepatocellular",1
+mir-4443,irradiated hepatic stellate cell,0
+mir-5008,lupus nephritis,0
+id-1,myocardial senescence,0
+mir-743b-5,diabetic retinopathy,0
+mir-454-3p,diabetic cataract,0
+mir-4663,uterine cervical neoplasms,0
+hsa-mir-522-3p,hepatoblastoma,0
+mir-664,lung neoplasms,0
+mir-326,uterine cervical neoplasms,1
+mir-181a-5p,alzheimer disease,0
+mir-532-5p,"carcinoma, hepatocellular",1
+mir-767-5p,cardiovascular diseases,0
+mir-101-3p,stomach neoplasms,1
+mir-545,adenocarcinoma of lung,1
+mir-33b,uterine cervical neoplasms,1
+mir-411-5p,diabetes mellitus,0
+mir-942,lupus nephritis,0
+mir-299-3p,osteoporosis,0
+mir-181a-5p,herpes simplex,0
+mir-150,osteoarthritis,0
+mir-320a,crohn disease,0
+hsa-mir-1273g-3p,"depressive disorder, major",0
+mir-6778-5p,esophageal neoplasms,0
+mir-607,"leukemia, promyelocytic, acute",0
+mir-1273a,"arthritis, rheumatoid",0
+mir-23a,irradiated hepatic stellate cell,0
+mir-195-5p,metabolism-related diseases,0
+mir-490,lung squamous cell carcinoma,0
+mir-145,ovarian neoplasms,1
+mir-137,osteoporosis,0
+mir-379-5p,thyroid neoplasms,0
+let-7,nasopharyngeal carcinoma,0
+mir-486-5p,"liver diseases, alcoholic",0
+mir-208a,retinal neurodegeneration,0
+mir-203,"carcinoma, non-small-cell lung",1
+mir-1322,diabetic nephropathies,0
+mir-125a,"carcinoma, non-small-cell lung",0
+mir-16,multiple myeloma,0
+mir-490-3p,liver neoplasms,1
+mir-2467-3p,myocardial senescence,0
+mir-93-5p,adenocarcinoma of lung,1
+mir-206,"hemorrhagic fever, ebola",0
+mir-93-3p,endometrial neoplasms,0
+mir-432-5p,ischemic stroke,0
+mir-637,triple negative breast neoplasms,1
+mir-624-3p,"epilepsy, temporal lobe",0
+mir-195-5p,"carcinoma, non-small-cell lung",0
+mir-181a,melanoma,0
+mir-513b-5p,colorectal neoplasms,0
+mir-140,ischemic stroke,0
+mir-1207-5p,breast neoplasms,0
+mir-98-5p,silicosis,0
+hsa-mir-10a-5p,bladder urothelial carcinoma,0
+mir-188-3p,thyroid neoplasms,0
+mir-122,glioblastoma,0
+mirna-21,"depressive disorder, major",0
+mir-645-ifit2,hepatoblastoma,0
+mir-10a,"leukemia, lymphocytic, chronic, b-cell",0
+mir-149,cholangiocarcinoma,1
+mir-155,"arthritis, rheumatoid",0
+mir-615-5p,diabetic retinopathy,1
+mir-6809,hypopharyngeal neoplasms,0
+mir-320a,lung neoplasms,1
+mir-626,"carcinoma, ovarian epithelial",0
+mir-23c,colonic neoplasms,0
+mir-103a-2-5p,rectal neoplasms,0
+mir-133a-5p,breast neoplasms,0
+mir-183,prostatic neoplasms,1
+mir-134,cholangiocarcinoma,0
+mir-6893,cardiac fibrosis,0
+hsa-mir-10a-5p,"depressive disorder, major",0
+mir-518f-3p,triple negative breast neoplasms,0
+mir-433,glioma,1
+mir-31-5p,colorectal neoplasms,1
+mir-637,ovarian neoplasms,1
+mir-379,lung neoplasms,1
+mir-9,ovarian neoplasms,1
+mir-4288,glioma,0
+mir-34a-3p,aortic aneurysm,0
+epi-mirs,glioma,0
+mir-4659b-3p,glucocorticoid-induced osteonecrosis of femoral head,0
+mir-1245,acne vulgaris,0
+mir-572,heart failure,0
+mir-9,colonic neoplasms,0
+mir-425-5p,"lupus erythematosus, systemic",0
+mir-607,moyamoya disease,0
+mir-139b-5p,moyamoya disease,0
+hsa-mir-498,pancreatic neoplasms,0
+mir-17-3p,intervertebral disc degeneration,1
+mir-136,osteosarcoma,1
+mir-425-5p,ischemic stroke,0
+mir-5195-3p,triple negative breast neoplasms,0
+mir-1294,"prostatic neoplasms, castration-resistant",0
+mir-125a-5p,"vitreoretinopathy, proliferative",0
+mir-331-3p,esophageal squamous cell carcinoma,0
+mir-330,myocardial senescence,0
+mir-1299,osteosarcoma,1
+mir-491-5p,"epilepsy, temporal lobe",0
+mir-142-3p,cholangiocarcinoma,0
+mir-224,infantile hemangioma,0
+mir-10b-5p,infantile hemangioma,0
+mir-1265,thyroid neoplasms,0
+mir-567,atherosclerosis,0
+mir-150-5p,stomach neoplasms,1
+mir-188-3p,"diabetes mellitus, type 2",0
+mir-421,pre-eclampsia,0
+mir-199b-5p,herpes simplex,0
+mir-197-3p,infantile hemangioma,1
+mir-8075,leukemia,0
+mir-203a-3p,cardiovascular diseases,0
+mir-203a-3p.1,lymphangiogenesis,0
+mir-217,"carcinoma, hepatocellular",1
+mir-96-3p,repeated implantation failure,0
+mir-526b-5p,osteoarthritis,0
+mir-130b,salivary adenoid cystic carcinoma,0
+mir-204-3p,immunosenescence,0
+mir-197,active pulmonary tuberculosis,0
+mir-1247-3p,metabolism-related diseases,0
+mir-671-5p,glioblastoma,1
+mir-620,prostatic neoplasms,0
+mir-330-3p,"carcinoma, hepatocellular",0
+mir-377-3p,"liver cirrhosis, biliary",0
+mir-198,adenocarcinoma of lung,1
+let-7,lung neoplasms,1
+mir-892b,myocardial infarction,0
+mir-34a,"tuberculosis, pulmonary",0
+mir-382-5p,intervertebral disc degeneration,0
+mir-93,coronary atherosclerotic heart disease,0
+mir-7-5p,glioma,1
+mir-363-3p,cutaneous squamous cell carcinoma,0
+mir-590-5p,"leukemia, myeloid, acute",0
+mir-514a-5p,"carcinoma, renal cell",1
+mir-141-5p,inflammatory bowel diseases,0
+mir-422a,osteosarcoma,0
+mir-155,"epilepsy, temporal lobe",1
+mir-124,squamous cell carcinoma of head and neck,1
+mir-607,endometriosis,0
+mir-486,"carcinoma, renal cell",0
+mir-137,mucocutaneous lymph node syndrome,0
+mir-1324,hirschsprung disease,1
+mir-203a-3p,hepatoblastoma,0
+mir-125b,squamous cell carcinoma of head and neck,1
+mir-665,salivary adenoid cystic carcinoma,0
+mir-200b,"carcinoma, hepatocellular",1
+mir-942,"carcinoma, pancreatic ductal",1
+mir-892a,intervertebral disc degeneration,0
+mir-665,liver neoplasms,1
+mir-382-5p,squamous cell carcinoma of head and neck,1
+mir-593,hepatoblastoma,0
+mir-124-3p,stomach neoplasms,1
+mir-17-3p,"leukemia, myeloid, acute",0
+mir-502-5p,"carcinoma, hepatocellular",1
+mir-93,pancreatic neoplasms,1
+mir-125a-5p,"carcinoma, non-small-cell lung",0
+mir-545-3p,cardiac senescence,0
+mir-620,liver neoplasms,0
+mir-526b,"carcinoma, hepatocellular",1
+mir-296-5p,"carcinoma, non-small-cell lung",1
+mir-1236,melanoma,1
+mir-486,glucocorticoid-induced osteonecrosis of femoral head,0
+mir-646,liver neoplasms,0
+mir-155,essential hypertension,0
+mir-620,"leukemia, myeloid, acute",0
+mir-106b-5p,hepatocellular steatosis,0
+mir-1245,hypertension,0
+mir-101-3p,alzheimer disease,0
+mir-133a-5p,liver cirrhosis,0
+mir-498,lung neoplasms,1
+mir-101b,tuberculosis,0
+mir-181,"liver diseases, alcoholic",0
+mir-492,tuberculosis,0
+mir-96-5p,colonic neoplasms,0
+mir-326,"leukemia, lymphocytic, chronic, b-cell",0
+mir-96-3p,urinary bladder neoplasms,0
+mir-421,"carcinoma, hepatocellular",1
+mir-452-3p,ischemic stroke,0
+mir-96-3p,"arthritis, rheumatoid",0
+mir-488-3p,"carcinoma, non-small-cell lung",1
+mir-422a,glioblastoma,1
+mir-326-5p,"leukemia, myeloid, acute",0
+mir-107,"carcinoma, mucoepidermoid",1
+mir-19b,hepatoblastoma,0
+mir-1182,heart failure,0
+mir-296-5p,triple negative breast neoplasms,1
+sa-mir-940,"lupus erythematosus, systemic",0
+mir-1265,esophageal neoplasms,0
+mir-7,lung neoplasms,1
+mir-330-3p,lung squamous cell carcinoma,0
+mir-382,pancreatic neoplasms,1
+mir-30c,esophageal squamous cell carcinoma,0
+mir-139-5p,"hemorrhagic fever, ebola",0
+mir-7,"carcinoma, hepatocellular",1
+mir-377,"carcinoma, pancreatic ductal",1
+mir-23a,"leukemia, promyelocytic, acute",0
+mir-206,"prostatic neoplasms, castration-resistant",0
+mir-514a-5p,lung squamous cell carcinoma,0
+mir-31,"carcinoma, hepatocellular",1
+mir-1183,endometrial neoplasms,0
+mir-766-3p,"arthritis, rheumatoid",0
+mir-1285-5p,inflammatory bowel diseases,0
+mir-3200-5p,essential hypertension,0
+mir-106a-5p,ischemic stroke,0
+hsa-mir-1273g-3p,breast neoplasms,0
+mir-542-3p,breast neoplasms,0
+mir-760,ovarian neoplasms,1
+mir-198,melanoma,1
+mir-1271-3p,"carcinoma, non-small-cell lung",0
+mir-217,glioma,1
+mir-4641,cutaneous squamous cell carcinoma,0
+mir-135b-3p,ischemic stroke,0
+mir-125a-5p,bladder urothelial carcinoma,0
+mir-6079,cardiac senescence,0
+mir-942-5p,"thyroid cancer, papillary",1
+mir-638,melanoma,0
+mir-607,ischemic stroke,0
+mir-449a,ovarian neoplasms,1
+mir-370-3p,osteosarcoma,1
+mir-4688,hepatoblastoma,0
+mir-214,adenocarcinoma of lung,0
+mir-205-5p,rectal neoplasms,0
+mir-346,myocardial infarction,0
+mir-1304-5p,"leukemia, promyelocytic, acute",0
+mir-597-5p,aortic aneurysm,0
+mir-136,herpes simplex,0
+mir-1305,cardiac fibrosis,0
+mir-140,laryngeal neoplasms,0
+mir-22-3p,"thyroid cancer, papillary",1
+mir-326,"carcinoma, hepatocellular",1
+mir-328-5p,"carcinoma, hepatocellular",1
+mir-153-5p,carotid plaque rupture,0
+mir-200a-3p,"prostatic neoplasms, castration-resistant",0
+mir-620,"carcinoma, hepatocellular",1
+mir-21,esophageal neoplasms,0
+mir-203,nasopharyngeal carcinoma,1
+mir-653,myocardial infarction,0
+cdk6,"diabetes mellitus, type 2",0
+mir-490-3p,"carcinoma, hepatocellular",1
+mir-653,stomach neoplasms,0
+mir-502-5p,"carcinoma, non-small-cell lung",0
+mir-100,vascular endothelial dysfunction,0
+mir-214-5p,active tuberculosis,0
+mir-193b,"prostatic neoplasms, castration-resistant",0
+mir-181a,infantile hemangioma,0
+mir-16,cutaneous squamous cell carcinoma,0
+mir-224,"tuberculosis, pulmonary",0
+mir-1247-5p,multiple system atrophy,0
+mir-646,acne vulgaris,0
+mir-488-3p,laryngeal neoplasms,0
+mir-188-3p,lymphangiogenesis,0
+mir-29a-3p,sciatica,0
+mir-182,adenocarcinoma of lung,1
+mir-1261,"thyroid cancer, papillary",1
+mir-3607,"thyroid cancer, papillary",0
+mir-506,chronic thromboembolic pulmonary hypertension,0
+mir-361-3p,"carcinoma, non-small-cell lung",1
+mir-224,glucocorticoid-induced osteonecrosis of femoral head,0
+mir-600,carotid plaque rupture,0
+mir-1183,irradiated hepatic stellate cell,0
+mir-124,"carcinoma, hepatocellular",1
+mir-18a,lung neoplasms,0
+mir-597-5p,asthma,0
+mir-140,precursor cell lymphoblastic leukemia-lymphoma,0
+mir-203a-3p,triple negative breast neoplasms,1
+mir-607,colonic neoplasms,0
+mir-29a-3p,breast neoplasms,1
+mir-518d-5p,bladder urothelial carcinoma,0
+ube2a,facet joint osteoarthritis,0
+mir-514a-5p,chronic thromboembolic pulmonary hypertension,0
+mir-328-3p,"carcinoma, hepatocellular",1
+mir-515-5p,breast neoplasms,1
+mir-4641,irradiated hepatic stellate cell,0
+mir-526b-5p,glucocorticoid-induced osteonecrosis of femoral head,0
+mir-506,thyroid neoplasms,0
+hsa-mir-182-5p,immunosenescence,0
+hsa-mir-182-5p,salivary adenoid cystic carcinoma,0
+mir-127-5p,lymphangiogenesis,0
+mir-1252,"carcinoma, non-small-cell lung",1
+mir-1270,adenocarcinoma of lung,1
+mir-188-3p,colorectal neoplasms,0
+mir-4760-3p,essential hypertension,0
+mir-103a-3p,"carcinoma, ovarian epithelial",0
+mir-146a-5p,"tuberculosis, pulmonary",0
+sa-mir-940,urinary bladder neoplasms,0
+hsa-mir-130a-3p,chronic thromboembolic pulmonary hypertension,0
+mir-323a-5p,chronic thromboembolic pulmonary hypertension,0
+mir-136,colorectal neoplasms,1
+mir-486-3p,breast neoplasms,0
+cdk6,"carcinoma, renal cell",0
+mir-328-3p,"leukemia, promyelocytic, acute",0
+mir-1228,myocardial infarction,0
+mir-519d-3p,diabetic retinopathy,1
+mir-337-3p,"lupus erythematosus, systemic",0
+mir-1200,primary great saphenous vein varicosities,0
+mir-141-5p,endometriosis,0
+mir-582,endometriosis,0
+mir-548c-3p,"leukemia, lymphocytic, chronic, b-cell",0
+mir-4641,sciatica,0
+mir-135a-5p,osteoporosis,0
+mir-125b-5p,cardiovascular diseases,0
+mir-377,inflammatory bowel diseases,0
+mir-138-5p,osteoarthritis,1
+mir-21-5p,"diabetes mellitus, type 2",0
+mir-429,"carcinoma, non-small-cell lung",1

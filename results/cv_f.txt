@@ -1,0 +1,128 @@
+feature engineering done on 2 layer graphsage
+EC - eigenvector centrality
+BC - betweenness centrality
+DEGREE ONLY
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.703613  0.630080
+1     1  0.667461  0.624260
+2     2  0.560063  0.621431
+3     3  0.563040  0.631671
+4     4  0.611907  0.574517
+
+Mean ± Std
+           auc      aupr
+mean  0.621217  0.616392
+std   0.063519  0.023778
+
+LOG DEGREE ONLY
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.719434  0.655636
+1     1  0.640998  0.639628
+2     2  0.658211  0.611768
+3     3  0.681723  0.667115
+4     4  0.611147  0.579252
+
+Mean ± Std
+           auc      aupr
+mean  0.662303  0.630680
+std   0.041014  0.035471
+
+DEGREE+LOG DEGREE
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.724046  0.656660
+1     1  0.682767  0.642983
+2     2  0.678348  0.627577
+3     3  0.637043  0.587264
+4     4  0.619276  0.597590
+
+Mean ± Std
+           auc      aupr
+mean  0.668296  0.622415
+std   0.041226  0.029471
+
+DEGREE LOG BC
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.787356  0.713626
+1     1  0.731493  0.683183
+2     2  0.699245  0.646205
+3     3  0.716586  0.672482
+4     4  0.668041  0.642153
+
+Mean ± Std
+           auc      aupr
+mean  0.720544  0.671530
+std   0.044186  0.029211
+
+LOG BC
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.760197  0.706502
+1     1  0.720335  0.683350
+2     2  0.720104  0.660961
+3     3  0.730887  0.680023
+4     4  0.657708  0.628852
+
+Mean ± Std
+           auc      aupr
+mean  0.717846  0.671937
+std   0.037388  0.029014
+
+DEGREE LOG EC
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.792613  0.720527
+1     1  0.736543  0.689778
+2     2  0.703870  0.651121
+3     3  0.720194  0.681800
+4     4  0.663892  0.640020
+
+Mean ± Std
+           auc      aupr
+mean  0.723422  0.676649
+std   0.047159  0.032084
+
+dEGREE+LOG+EC+ONE HOT
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.788232  0.710771
+1     1  0.748525  0.696531
+2     2  0.713275  0.646414
+3     3  0.736659  0.692345
+4     4  0.676995  0.657959
+
+Mean ± Std
+           auc      aupr
+mean  0.732737  0.680804
+std   0.041323  0.027309
+
+dEGREE+LOG+BC+ONE HOT
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.786042  0.710105
+1     1  0.742805  0.692847
+2     2  0.711948  0.647788
+3     3  0.741143  0.687180
+4     4  0.685034  0.666452
+
+Mean ± Std
+           auc      aupr
+mean  0.733394  0.680874
+std   0.037812  0.024188
+
+LOG+BC+ONE HOT
+===== FINAL 5-FOLD RESULTS =====
+   fold       auc      aupr
+0     0  0.729122  0.730511
+1     1  0.708328  0.677577
+2     2  0.683823  0.665177
+3     3  0.753253  0.715117
+4     4  0.615656  0.609953
+
+Mean ± Std
+           auc      aupr
+mean  0.698037  0.679667
+std   0.052701  0.047213

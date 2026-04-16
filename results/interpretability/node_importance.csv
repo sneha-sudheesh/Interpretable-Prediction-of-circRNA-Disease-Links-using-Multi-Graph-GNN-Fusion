@@ -1,0 +1,7 @@
+feature,mean_importance,std_importance,rank
+degree,0.55388796,0.33985755,1
+log_degree,0.4790895,0.3297586,2
+is_circRNA,0.3951429,0.27613077,3
+is_disease,0.2559051,0.105057955,4
+is_miRNA,0.20121023,2.9802322e-08,5
+betweenness,0.200863,0.0023206337,6

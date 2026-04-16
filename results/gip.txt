@@ -1,0 +1,180 @@
+SAGE
+(No GIP explicitly mentioned in model)
+AFTER ADDING LAYERS(REMOVING RESIDUALS)
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.405179  0.919957  0.608815
+1    43       0.396775  0.936137  0.631871
+2    44       0.434770  0.916108  0.608856
+3    45       0.389216  0.941768  0.599735
+4    46       0.445969  0.910014  0.619307
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.414382  0.924797  0.613717
+std        0.024705  0.013547  0.012288
+
+GIP added TO ONLY 1 LAYER
+LAYER 1
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.383120  0.926301  0.547907
+1    43       0.399483  0.930328  0.571881
+2    44       0.436600  0.926942  0.612710
+3    45       0.388037  0.939344  0.586749
+4    46       0.423837  0.894298  0.564345
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.406215  0.923443  0.576718
+std        0.023146  0.017103  0.024508
+
+LAYER 2
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.412848  0.938988  0.647552
+1    43       0.392198  0.948343  0.672134
+2    44       0.410404  0.917569  0.603718
+3    45       0.387863  0.949180  0.632702
+4    46       0.602318  0.924661  0.693722
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.441126  0.935748  0.649966
+std        0.090771  0.014168  0.034817
+
+Layer3
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.395115  0.936921  0.571194
+1    43       0.387320  0.949537  0.609745
+2    44       0.384975  0.918674  0.556816
+3    45       0.384783  0.937135  0.593430
+4    46       0.389805  0.937295  0.582653
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.388400  0.935912  0.582768
+std        0.004273  0.011036  0.020303
+
+
+2Layers
+Layer 1 and 2
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.412988  0.926907  0.629332
+1    43       0.393276  0.941892  0.641167
+2    44       0.417884  0.909907  0.574854
+3    45       0.391672  0.943407  0.619600
+4    46       0.393025  0.938917  0.650814
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.401769  0.932206  0.623153
+std        0.012611  0.014050  0.029467
+
+Layer 2 and 3
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.389765  0.951354  0.610895
+1    43       0.458342  0.930969  0.631539
+2    44       0.388124  0.940485  0.571107
+3    45       0.390291  0.939273  0.566451
+4    46       0.389616  0.952085  0.636055
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.403228  0.942833  0.603209
+std        0.030820  0.008904  0.032872
+
+Layer 1 and 3
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.393839  0.939701  0.578251
+1    43       0.391029  0.928938  0.585087
+2    44       0.385044  0.916607  0.552573
+3    45       0.384884  0.933179  0.584217
+4    46       0.389076  0.938881  0.615301
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.388774  0.931461  0.583086
+std        0.003869  0.009393  0.022347
+
+
+ALL 3
+===== FINAL RESULTS =====
+   seed  best_val_loss       auc      aupr
+0    42       0.392431  0.953243  0.683146
+1    43       0.387154  0.944191  0.600878
+2    44       0.388313  0.937598  0.570909
+3    45       0.385533  0.937063  0.606960
+4    46       0.388267  0.944850  0.586055
+
+Mean ± Std
+      best_val_loss       auc      aupr
+mean       0.388339  0.943389  0.609590
+std        0.002551  0.006585  0.043426
+
+
+GAT 
+(No GIP explicitly mentioned in model)
+Both Layers removed (residuals added)
+========== FINAL SUMMARY ==========
+Seed 42: AUC=0.7916, AUPR=0.4235
+Seed 43: AUC=0.7672, AUPR=0.3711
+Seed 44: AUC=0.7688, AUPR=0.3816
+Seed 45: AUC=0.7534, AUPR=0.2925
+Seed 46: AUC=0.7199, AUPR=0.3149
+
+Mean ± Std over seeds
+AUC  : 0.7602 ± 0.0236
+AUPR : 0.3567 ± 0.0472
+
+residuals removed
+========== FINAL SUMMARY ==========
+Seed 42: AUC=0.9243, AUPR=0.5617
+Seed 43: AUC=0.9403, AUPR=0.6851
+Seed 44: AUC=0.9227, AUPR=0.6061
+Seed 45: AUC=0.9349, AUPR=0.5920
+Seed 46: AUC=0.9223, AUPR=0.6335
+
+Mean ± Std over seeds
+AUC  : 0.9289 ± 0.0073
+AUPR : 0.6157 ± 0.0417
+
+GIP in Layer 2 only
+========== FINAL SUMMARY ==========
+Seed 42: AUC=0.8768, AUPR=0.4991
+Seed 43: AUC=0.9306, AUPR=0.6395
+Seed 44: AUC=0.8490, AUPR=0.3207
+Seed 45: AUC=0.9273, AUPR=0.5372
+Seed 46: AUC=0.9138, AUPR=0.5220
+
+Mean ± Std over seeds
+AUC  : 0.8995 ± 0.0317
+AUPR : 0.5037 ± 0.1034
+
+GIP in Layer 1 only: SELECTED
+========== FINAL SUMMARY ==========
+Seed 42: AUC=0.9512, AUPR=0.7382
+Seed 43: AUC=0.9355, AUPR=0.6633
+Seed 44: AUC=0.9299, AUPR=0.5611
+Seed 45: AUC=0.9464, AUPR=0.7216
+Seed 46: AUC=0.9385, AUPR=0.5982
+
+Mean ± Std over seeds
+AUC  : 0.9403 ± 0.0076
+AUPR : 0.6565 ± 0.0685
+
+GIP added both layers
+========== FINAL SUMMARY ==========
+Seed 42: AUC=0.9179, AUPR=0.6143
+Seed 43: AUC=0.9057, AUPR=0.5792
+Seed 44: AUC=0.9342, AUPR=0.5716
+Seed 45: AUC=0.9365, AUPR=0.5905
+Seed 46: AUC=0.9063, AUPR=0.6162
+
+Mean ± Std over seeds
+AUC  : 0.9201 ± 0.0132
+AUPR : 0.5944 ± 0.0181
