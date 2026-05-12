@@ -1,5 +1,4 @@
-# Interpretable Prediction of circRNA-Disease
-Links using Multi-Graph GNN Fusion
+# Interpretable Prediction of circRNA-Disease Links using Multi-Graph GNN Fusion
 
 A bioinformatics-based machine learning project that predicts potential associations between circular RNAs (circRNAs) and diseases using Graph Neural Networks (GNNs). The model learns hidden biological relationships from circRNA, miRNA, and disease interaction data to identify possible disease associations.
 
